@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "clm-adam-steinberg-ea-affiliation",
+    "offering_id": "off-adam-steinberg-ease",
+    "org_id": "org-adam-steinberg",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Adam Steinberg is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "project management",
+        "writing / editing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-adam-tury-leadership-coaching-ea-affiliation",
+    "offering_id": "off-adam-tury-leadership-coaching-ease",
+    "org_id": "org-adam-tury-leadership-coaching",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Adam Tury Leadership Coaching is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "management consulting",
+        "professional development / training",
+        "leadership coaching",
+        "management coaching"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-all-in-awe-ea-affiliation",
+    "offering_id": "off-all-in-awe-ease",
+    "org_id": "org-all-in-awe",
+    "claim_type": "ea_affiliation",
+    "claim_text": "All in Awe is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "interior design",
+        "graphic design",
+        "branding",
+        "web design",
+        "photography"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-altruistic-agency-ea-affiliation",
+    "offering_id": "off-altruistic-agency-ease",
+    "org_id": "org-altruistic-agency",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Altruistic Agency is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "web development",
+        "tech support and strategy",
+        "software engineering"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-amalgamated-investment-services-michael-hammer-ea-affiliation",
+    "offering_id": "off-amalgamated-investment-services-michael-hammer-ease",
+    "org_id": "org-amalgamated-investment-services-michael-hammer",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Amalgamated Investment Services - Michael Hammer is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "portfolio and cash management services",
+        "investment advice",
+        "stock donation"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-amber-dawn-ace-ea-affiliation",
+    "offering_id": "off-amber-dawn-ace-ease",
+    "org_id": "org-amber-dawn-ace",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Amber Dawn Ace is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "writing / editing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-animal-advocacy-careers-ea-affiliation",
+    "offering_id": "off-animal-advocacy-careers-ease",
+    "org_id": "org-animal-advocacy-careers",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Animal Advocacy Careers is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hiring",
+        "hr consulting"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-artwhich-ea-affiliation",
+    "offering_id": "off-artwhich-ease",
+    "org_id": "org-artwhich",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Artwhich is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "professional development / training",
+        "organizational strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-berger-hr-solutions-ea-affiliation",
+    "offering_id": "off-berger-hr-solutions-ease",
+    "org_id": "org-berger-hr-solutions",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Berger HR Solutions is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hiring",
+        "hr consulting"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-blanka-bondor-ea-affiliation",
+    "offering_id": "off-blanka-bondor-ease",
+    "org_id": "org-blanka-bondor",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Blanka Bondor is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Business Operations",
+        "Management Consulting",
+        "Organizational Strategy",
+        "Process and Workflow",
+        "Project Management",
+        "Community Strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-cfactual-ea-affiliation",
+    "offering_id": "off-cfactual-ease",
+    "org_id": "org-cfactual",
+    "claim_type": "ea_affiliation",
+    "claim_text": "cFactual is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "productivity",
+        "KPIs",
+        "research",
+        "impact evaluation",
+        "management consulting",
+        "administrative assistance"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-coaching-with-paul-ea-affiliation",
+    "offering_id": "off-coaching-with-paul-ease",
+    "org_id": "org-coaching-with-paul",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Coaching with Paul is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "organizational strategy",
+        "process and workflow",
+        "product development / management",
+        "productivity",
+        "professional development / training",
+        "project management"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-confident-philanthropy-ea-affiliation",
+    "offering_id": "off-confident-philanthropy-ease",
+    "org_id": "org-confident-philanthropy",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Confident Philanthropy is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "impact evaluation",
+        "management consulting",
+        "organizational strategy",
+        "fundraising & income diversification"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-daniel-wernstedt-ea-affiliation",
+    "offering_id": "off-daniel-wernstedt-ease",
+    "org_id": "org-daniel-wernstedt",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Daniel Wernstedt is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "process and workflow",
+        "business operations"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-dave-cortright-coaching-ea-affiliation",
+    "offering_id": "off-dave-cortright-coaching-ease",
+    "org_id": "org-dave-cortright-coaching",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Dave Cortright Coaching is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-ea-good-governance-project-ea-affiliation",
+    "offering_id": "off-ea-good-governance-project-ease",
+    "org_id": "org-ea-good-governance-project",
+    "claim_type": "ea_affiliation",
+    "claim_text": "EA Good Governance Project is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hr consulting",
+        "organizational strategy",
+        "governance"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-freddy-zwanzger-consulting-ea-affiliation",
+    "offering_id": "off-freddy-zwanzger-consulting-ease",
+    "org_id": "org-freddy-zwanzger-consulting",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Freddy Zwanzger Consulting is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Business Operations",
+        "KPIs",
+        "Management Consulting",
+        "Organizational Strategy",
+        "Process and Workflow",
+        "Product Development / Management",
+        "Productivity",
+        "Project Management"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-future-matters-ea-affiliation",
+    "offering_id": "off-future-matters-ease",
+    "org_id": "org-future-matters",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Future Matters is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "impact evaluation",
+        "management consulting",
+        "organizational strategy",
+        "professional development / training",
+        "project exploration",
+        "project management",
+        "research",
+        "policy advocacy",
+        "communications consulting"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-goalswon-ea-affiliation",
+    "offering_id": "off-goalswon-ease",
+    "org_id": "org-goalswon",
+    "claim_type": "ea_affiliation",
+    "claim_text": "GoalsWon is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "productivity",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-growth-ea-affiliation",
+    "offering_id": "off-good-growth-ease",
+    "org_id": "org-good-growth",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Good Growth is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "management consulting",
+        "organizational strategy",
+        "professional development / training",
+        "research"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-impressions-ea-affiliation",
+    "offering_id": "off-good-impressions-ease",
+    "org_id": "org-good-impressions",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Good Impressions is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "marketing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-high-impact-professionals-ea-affiliation",
+    "offering_id": "off-high-impact-professionals-ease",
+    "org_id": "org-high-impact-professionals",
+    "claim_type": "ea_affiliation",
+    "claim_text": "High Impact Professionals is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hiring",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-impact-ops-ea-affiliation",
+    "offering_id": "off-impact-ops-ease",
+    "org_id": "org-impact-ops",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Impact Ops is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "business operations",
+        "hiring",
+        "hr consulting",
+        "organizational strategy",
+        "process and workflow",
+        "productivity",
+        "project management"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-impact-shield-ea-affiliation",
+    "offering_id": "off-impact-shield-ease",
+    "org_id": "org-impact-shield",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Impact Shield is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Software Engineering",
+        "IT Security"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-joyful-impact-ea-affiliation",
+    "offering_id": "off-joyful-impact-ease",
+    "org_id": "org-joyful-impact",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Joyful Impact is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Productivity",
+        "Professional Development/Training",
+        "Project Exploration"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-katarina-polonska-coaching-ea-affiliation",
+    "offering_id": "off-katarina-polonska-coaching-ease",
+    "org_id": "org-katarina-polonska-coaching",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Katarina Polonska Coaching is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "business operations",
+        "hr consulting",
+        "management consulting",
+        "marketing and lead generation",
+        "organizational strategy",
+        "process and workflow",
+        "productivity",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-know-your-elephants-ea-affiliation",
+    "offering_id": "off-know-your-elephants-ease",
+    "org_id": "org-know-your-elephants",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Know Your Elephants is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "business operations",
+        "hiring",
+        "hr consulting",
+        "kpis",
+        "management consulting",
+        "organizational strategy",
+        "process and workflow",
+        "productivity",
+        "professional development / training",
+        "project management",
+        "organizational transformation"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-lee-mcclenon-ea-affiliation",
+    "offering_id": "off-lee-mcclenon-ease",
+    "org_id": "org-lee-mcclenon",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Lee McClenon is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hiring",
+        "organizational strategy",
+        "productivity",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-listrom-di-lullo-ea-affiliation",
+    "offering_id": "off-listrom-di-lullo-ease",
+    "org_id": "org-listrom-di-lullo",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Listrom Di Lullo is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "business operations",
+        "hr consulting",
+        "management consulting",
+        "organizational strategy",
+        "process and workflow",
+        "productivity",
+        "professional development / training",
+        "venture capitalism",
+        "governance and legal consulting",
+        "dispute resolution",
+        "ip consulting",
+        "real estate transactions and leasing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-lynette-bye-coaching-ea-affiliation",
+    "offering_id": "off-lynette-bye-coaching-ease",
+    "org_id": "org-lynette-bye-coaching",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Lynette Bye Coaching is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "productivity"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-marta-krzeminska-ea-affiliation",
+    "offering_id": "off-marta-krzeminska-ease",
+    "org_id": "org-marta-krzeminska",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Marta Krzeminska is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "business operations",
+        "data science / visualization",
+        "kpis",
+        "management consulting",
+        "marketing and lead generation",
+        "process and workflow",
+        "product development / management",
+        "productivity",
+        "project management",
+        "writing / editing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-martin-milbradt-consulting-ea-affiliation",
+    "offering_id": "off-martin-milbradt-consulting-ease",
+    "org_id": "org-martin-milbradt-consulting",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Martin Milbradt Consulting is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "software engineering",
+        "tech support and strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-martina-pepiciello-ea-affiliation",
+    "offering_id": "off-martina-pepiciello-ease",
+    "org_id": "org-martina-pepiciello",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Martina Pepiciello is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "branding",
+        "data science / visualization",
+        "educational content creation",
+        "graphic design",
+        "illustration",
+        "web design"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-neumann-analytics-ea-affiliation",
+    "offering_id": "off-neumann-analytics-ease",
+    "org_id": "org-neumann-analytics",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Neumann Analytics is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "data science / visualization",
+        "data warehousing",
+        "kpis",
+        "tech support and strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-nonlinear-ea-affiliation",
+    "offering_id": "off-nonlinear-ease",
+    "org_id": "org-nonlinear",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Nonlinear is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hr consulting",
+        "management consulting",
+        "organizational strategy",
+        "product development / management",
+        "productivity",
+        "professional development / training",
+        "project exploration",
+        "coaching and career advice"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-offit-kurman-ea-affiliation",
+    "offering_id": "off-offit-kurman-ease",
+    "org_id": "org-offit-kurman",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Offit Kurman is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "legal"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-pantask-ea-affiliation",
+    "offering_id": "off-pantask-ease",
+    "org_id": "org-pantask",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Pantask is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "marketing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-paragon-data-solutions-ea-affiliation",
+    "offering_id": "off-paragon-data-solutions-ease",
+    "org_id": "org-paragon-data-solutions",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Paragon Data Solutions is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "marketing and lead generation",
+        "research",
+        "back office",
+        "data enrichment",
+        "data entry",
+        "administrative and repetitive jobs",
+        "email sourcing",
+        "personal tasks",
+        "online research",
+        "invoicing and payments",
+        "email support"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-pineapple-operations-ea-affiliation",
+    "offering_id": "off-pineapple-operations-ease",
+    "org_id": "org-pineapple-operations",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Pineapple Operations is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hiring"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-presence-tree-leadership-ea-affiliation",
+    "offering_id": "off-presence-tree-leadership-ease",
+    "org_id": "org-presence-tree-leadership",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Presence Tree Leadership is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Professional Development / Training",
+        "Leadership Coaching and Team Facilitation"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-sarachas-ea-affiliation",
+    "offering_id": "off-sarachas-ease",
+    "org_id": "org-sarachas",
+    "claim_type": "ea_affiliation",
+    "claim_text": "SARACHAS is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "business operations",
+        "kpis",
+        "management consulting",
+        "organizational strategy",
+        "process and workflow",
+        "product development / management",
+        "professional development / training",
+        "project management",
+        "writing / editing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-scarlet-spark-ea-affiliation",
+    "offering_id": "off-scarlet-spark-ease",
+    "org_id": "org-scarlet-spark",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Scarlet Spark is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Management Consulting",
+        "Organizational Strategy",
+        "People Operations",
+        "Leadership Development"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-seads-data-science-for-effective-good-ea-affiliation",
+    "offering_id": "off-seads-data-science-for-effective-good-ease",
+    "org_id": "org-seads-data-science-for-effective-good",
+    "claim_type": "ea_affiliation",
+    "claim_text": "SEADS Data Science for Effective Good is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "data science / visualization",
+        "research",
+        "business operations",
+        "organizational strategy",
+        "data warehousing",
+        "software engineering"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-sharang-phadke-ea-affiliation",
+    "offering_id": "off-sharang-phadke-ease",
+    "org_id": "org-sharang-phadke",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Sharang Phadke is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "product management",
+        "tech support and strategy",
+        "data science / visualization"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-speak-ea-affiliation",
+    "offering_id": "off-speak-ease",
+    "org_id": "org-speak",
+    "claim_type": "ea_affiliation",
+    "claim_text": "SpEAk is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "management consulting",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-t-list-ea-affiliation",
+    "offering_id": "off-t-list-ease",
+    "org_id": "org-t-list",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Tälist is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "branding",
+        "hiring",
+        "management consulting",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-tee-barnett-coaching-ea-affiliation",
+    "offering_id": "off-tee-barnett-coaching-ease",
+    "org_id": "org-tee-barnett-coaching",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Tee Barnett Coaching is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "hiring",
+        "organizational strategy",
+        "process and workflow",
+        "productivity",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-the-canoe-collective-ea-affiliation",
+    "offering_id": "off-the-canoe-collective-ease",
+    "org_id": "org-the-canoe-collective",
+    "claim_type": "ea_affiliation",
+    "claim_text": "The CANOE Collective is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "bookkeeping",
+        "business operations",
+        "hiring",
+        "hr consulting",
+        "project management",
+        "tech support and strategy",
+        "financial management and bookkeeping"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-the-health-optimiser-ea-affiliation",
+    "offering_id": "off-the-health-optimiser-ease",
+    "org_id": "org-the-health-optimiser",
+    "claim_type": "ea_affiliation",
+    "claim_text": "The Health Optimiser is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "productivity",
+        "health and wellbeing coaching and assistance"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-the-mission-motor-ea-affiliation",
+    "offering_id": "off-the-mission-motor-ease",
+    "org_id": "org-the-mission-motor",
+    "claim_type": "ea_affiliation",
+    "claim_text": "The Mission Motor is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "Monitoring & Evaluation"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-upgradable-ea-affiliation",
+    "offering_id": "off-upgradable-ease",
+    "org_id": "org-upgradable",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Upgradable is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "business operations",
+        "hiring",
+        "hr consulting",
+        "impact evaluation",
+        "kpis",
+        "management consulting",
+        "marketing and lead generation",
+        "organizational strategy",
+        "process and workflow",
+        "product development / management",
+        "productivity",
+        "professional development / training",
+        "project management",
+        "research",
+        "software engineering",
+        "venture capitalism",
+        "web design",
+        "writing / editing"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-user-friendly-ea-affiliation",
+    "offering_id": "off-user-friendly-ease",
+    "org_id": "org-user-friendly",
+    "claim_type": "ea_affiliation",
+    "claim_text": "User-Friendly is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "marketing",
+        "graphic design",
+        "branding",
+        "web development",
+        "organizational strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-vida-change-ea-affiliation",
+    "offering_id": "off-vida-change-ease",
+    "org_id": "org-vida-change",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Vida Change is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "business operations",
+        "management consulting",
+        "productivity",
+        "professional development / training",
+        "project management",
+        "tech support and strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-wegner-cpas-ea-affiliation",
+    "offering_id": "off-wegner-cpas-ease",
+    "org_id": "org-wegner-cpas",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Wegner CPAs is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "nonprofit advisory services"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-wisen-tanasa-ea-affiliation",
+    "offering_id": "off-wisen-tanasa-ease",
+    "org_id": "org-wisen-tanasa",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Wisen Tanasa is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "process and workflow",
+        "product development / management",
+        "productivity",
+        "professional development / training",
+        "software engineering",
+        "tech support and strategy"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-workstream-nonprofit-ea-affiliation",
+    "offering_id": "off-workstream-nonprofit-ease",
+    "org_id": "org-workstream-nonprofit",
+    "claim_type": "ea_affiliation",
+    "claim_text": "Workstream Nonprofit is listed in the EASE directory as an EA-aligned service provider offering services to effective altruism organisations.",
+    "parsed_value": {
+      "areas": [
+        "administrative assistance",
+        "bookkeeping",
+        "business operations",
+        "finance",
+        "hiring",
+        "management consulting",
+        "organizational strategy",
+        "process development",
+        "professional development / training"
+      ]
+    },
+    "confidence": 0.75,
+    "risk_level": "low",
+    "source_id": "src-ea-services",
+    "beneficiary": "EA-aligned organisations",
+    "cause_area": "Effective Altruism",
+    "impact_scope": "ea-ecosystem",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

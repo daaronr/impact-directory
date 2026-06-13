@@ -1,0 +1,168 @@
+[
+  {
+    "id": "off-good-store-coffee",
+    "slug": "good-store-coffee",
+    "name": "Coffee — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Drink",
+    "description": "Specialty coffee subscriptions (monthly, 6-month, 12-month prepaid) and compostable single-serve pods from Keats & Co., sold through Good Store. 100% of profits donated to charity. 8 products available.",
+    "tags": [
+      "coffee",
+      "subscriptions",
+      "specialty-coffee",
+      "single-origin",
+      "coffee-pods",
+      "coffee-subscription",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-tea",
+    "slug": "good-store-tea",
+    "name": "Tea — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Drink",
+    "description": "Loose-leaf teas — black, green, herbal, chai — from Keats & Co., sold through Good Store. 100% of profits donated to charity. 19 products available.",
+    "tags": [
+      "tea",
+      "loose-leaf",
+      "loose-leaf-tea",
+      "herbal-tea",
+      "green-tea",
+      "black-tea",
+      "chai",
+      "caffeine-free",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-socks",
+    "slug": "good-store-socks",
+    "name": "Socks — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Clothing & Accessories",
+    "description": "Artist-designed socks (monthly subscription or individual pairs, including compression socks benefiting Partners in Health) from Awesome Socks Club, sold through Good Store. 100% of profits donated to charity. 11 products available.",
+    "tags": [
+      "socks",
+      "clothing",
+      "subscriptions",
+      "artist-designed",
+      "compression-socks",
+      "monthly-subscription",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-underwear",
+    "slug": "good-store-underwear",
+    "name": "Underwear — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Clothing & Accessories",
+    "description": "Underwear subscriptions (Awesome Undies Club) from Awesome Socks Club, sold through Good Store. 100% of profits donated to charity. 5 products available.",
+    "tags": [
+      "underwear",
+      "subscriptions",
+      "monthly-subscription",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-soap-bath",
+    "slug": "good-store-soap-bath",
+    "name": "Soap & bath — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Beauty & Personal Care",
+    "description": "Artisan bar soaps and bath bombs from Sun Basin Soap, sold through Good Store. 100% of profits donated to charity. 16 products available.",
+    "tags": [
+      "soap",
+      "bar-soap",
+      "bath",
+      "bath-bomb",
+      "artisan-soap",
+      "natural-soap",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-shampoo-bars",
+    "slug": "good-store-shampoo-bars",
+    "name": "Shampoo bars — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Beauty & Personal Care",
+    "description": "Solid shampoo bars (plastic-free) from Sun Basin Soap, sold through Good Store. 100% of profits donated to charity. 4 products available.",
+    "tags": [
+      "shampoo",
+      "shampoo-bar",
+      "solid-shampoo",
+      "hair-care",
+      "plastic-free",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-candles",
+    "slug": "good-store-candles",
+    "name": "Candles — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Home & Living",
+    "description": "Scented candles from Sun Basin Soap, sold through Good Store. 100% of profits donated to charity. 2 products available.",
+    "tags": [
+      "candles",
+      "scented-candles",
+      "home-fragrance",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-store-household-cleaning",
+    "slug": "good-store-household-cleaning",
+    "name": "Household cleaning — Good Store",
+    "org_id": "org-good-store",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Household & Cleaning",
+    "description": "Eco-friendly household cleaning products — cleaning tabs, dishwasher tablets and powder, laundry dryer sheets, scrub brushes, spray bottles — from EcoGeek, sold through Good Store. 100% of profits donated to charity. 24 products available.",
+    "tags": [
+      "cleaning",
+      "household",
+      "eco-friendly",
+      "dishwasher-tablets",
+      "laundry",
+      "cleaning-tabs",
+      "biodegradable",
+      "zero-waste",
+      "cleaning-products",
+      "100pct-profits"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

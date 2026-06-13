@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #F4F6F8;
+  --card: #FFFFFF;
+  --fg: #1A2332;
+  --accent: #1D5FA6;
+  --accent-light: #E8F0FB;
+  --line: #D0D9E4;
+  --green: #1A7A4A;
+  --green-light: #E6F4EC;
+  --amber: #B45309;
+  --amber-light: #FEF3C7;
+  --red: #B91C1C;
+  --red-light: #FEE2E2;
+}
+
+body {
+  font-family: 'Source Serif 4', Georgia, serif;
+  background: var(--bg);
+  color: var(--fg);
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 font-mono text-xs tracking-widest uppercase;
+    background: var(--fg);
+    color: var(--card);
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .btn-primary:hover {
+    background: var(--accent);
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 font-mono text-xs tracking-wider uppercase;
+    background: transparent;
+    color: var(--fg);
+    border: 2px solid var(--line);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .btn-secondary:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .input-field {
+    @apply w-full p-4 text-lg;
+    font-family: 'Source Serif 4', Georgia, serif;
+    border: 2px solid var(--fg);
+    background: white;
+    outline: none;
+    border-radius: 0;
+  }
+
+  .input-field:focus {
+    border-color: var(--accent);
+  }
+
+  .panel-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    box-shadow: 3px 3px 0 var(--line);
+  }
+
+  .section-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #888;
+  }
+
+  .badge {
+    @apply text-xs font-mono px-2 py-0.5 uppercase tracking-wider;
+    border: 1px solid currentColor;
+    background: transparent;
+  }
+
+  .badge-exact {
+    color: var(--green);
+    border-color: var(--green);
+    background: var(--green-light);
+  }
+
+  .badge-collection {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-light);
+  }
+
+  .badge-inferred {
+    color: var(--amber);
+    border-color: var(--amber);
+    background: var(--amber-light);
+  }
+
+  .badge-high-confidence {
+    color: var(--green);
+  }
+
+  .badge-medium-confidence {
+    color: var(--amber);
+  }
+
+  .badge-low-confidence {
+    color: var(--red);
+  }
+
+  .badge-service {
+    color: #5B21B6;
+    border-color: #5B21B6;
+    background: #EDE9FE;
+  }
+
+  .badge-verified {
+    color: var(--green);
+    border-color: var(--green);
+    background: var(--green-light);
+  }
+
+  .badge-self-reported {
+    color: #92400E;
+    border-color: #D97706;
+    background: #FFFBEB;
+  }
+
+  .service-card {
+    background: var(--card);
+    border: 1px solid #C4B5FD;
+    transition: all 0.15s;
+  }
+
+  .service-card:hover {
+    border-color: #5B21B6;
+    box-shadow: 0 2px 8px rgba(91, 33, 182, 0.12);
+    transform: translateY(-1px);
+  }
+
+  .hero-highlight {
+    color: var(--accent);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='4' viewBox='0 0 16 4'%3E%3Cpath d='M0 3.5 Q4 0.5 8 3.5 Q12 6.5 16 3.5' stroke='%231D5FA6' stroke-width='1.2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: repeat-x;
+    background-position: 0 100%;
+    background-size: 16px 4px;
+    padding-bottom: 7px;
+  }
+
+  .claim-blockquote {
+    @apply pl-4 py-2 my-3 text-base leading-relaxed italic;
+    border-left: 3px solid var(--accent);
+    background: var(--accent-light);
+    font-family: 'Source Serif 4', Georgia, serif;
+  }
+
+  .result-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    transition: all 0.15s;
+  }
+
+  .result-card:hover {
+    border-color: var(--accent);
+    box-shadow: 0 2px 8px rgba(29, 95, 166, 0.12);
+    transform: translateY(-1px);
+  }
+
+  .nav-link {
+    @apply font-mono text-xs tracking-wider uppercase px-3 py-2;
+    color: var(--fg);
+    transition: color 0.15s;
+    text-decoration: none;
+  }
+
+  .nav-link:hover {
+    color: var(--accent);
+  }
+
+  .nav-link.active {
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent);
+  }
+}

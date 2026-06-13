@@ -1,0 +1,86 @@
+[
+  {
+    "id": "src-profit-for-good",
+    "name": "Profit for Good",
+    "url": "https://www.profitforgood.com",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-gwwc",
+    "name": "Giving What We Can",
+    "url": "https://www.givingwhatwecan.org/company-pledge",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-good-store",
+    "name": "Good Store",
+    "url": "https://good.store",
+    "source_type": "official_site",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-profit-for-good-alliance",
+    "name": "Profit for Good Alliance",
+    "url": "https://profitforgood.com",
+    "source_type": "directory",
+    "last_crawled": "2026-04-11"
+  },
+  {
+    "id": "src-gwwc-company-pledge",
+    "name": "GWWC Company Pledge",
+    "url": "https://www.givingwhatwecan.org/get-involved/company-pledge",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-official-site",
+    "name": "Official company website",
+    "url": null,
+    "source_type": "official_site",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-ea-forum",
+    "name": "EA Forum",
+    "url": "https://forum.effectivealtruism.org",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-1pct-planet",
+    "name": "1% for the Planet",
+    "url": "https://www.onepercentfortheplanet.org",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-ea-services",
+    "name": "EA Services Directory",
+    "url": "https://ea-services.org",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-b-corp",
+    "name": "B Corp Directory",
+    "url": "https://www.bcorporation.net/en-us/find-a-b-corp/",
+    "source_type": "directory",
+    "last_crawled": "2026-04-10"
+  },
+  {
+    "id": "src-founders-pledge",
+    "name": "Founders Pledge",
+    "url": "https://founderspledge.com/members",
+    "source_type": "directory",
+    "last_crawled": "2026-04-11"
+  },
+  {
+    "id": "src-pledge-1pct",
+    "name": "Pledge 1%",
+    "url": "https://www.pledge1percent.org/pledge-1-members/",
+    "source_type": "directory",
+    "last_crawled": "2026-04-11"
+  }
+]

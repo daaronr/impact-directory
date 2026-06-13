@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "org-albion-east",
+    "slug": "albion-east",
+    "name": "Albion East",
+    "description": "Albion East is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.albioneast.com",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-tomorrow-sleepwear",
+    "slug": "tomorrow-sleepwear",
+    "name": "Tomorrow Sleepwear LLC",
+    "description": "Tomorrow Sleepwear LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://tomorrowsleepwear.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-give-industries",
+    "slug": "give-industries",
+    "name": "Give Industries Ltd",
+    "description": "Give Industries Ltd is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.giveindustries.com.au/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-gimbalninja",
+    "slug": "gimbalninja",
+    "name": "Gimbalninja e.U.",
+    "description": "Gimbalninja e.U. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://gimbalninja.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-carpenter-co",
+    "slug": "carpenter-co",
+    "name": "Carpenter & Co",
+    "description": "Carpenter & Co is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.instagram.com/carpenterand_co/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-keika",
+    "slug": "keika",
+    "name": "Keika",
+    "description": "Keika is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://keikanaturals.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ctrl-matters",
+    "slug": "ctrl-matters",
+    "name": "CTRL Matters",
+    "description": "CTRL Matters is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.ctrlmatters.eu/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ethos-wines",
+    "slug": "ethos-wines",
+    "name": "Ethos Wines",
+    "description": "Ethos Wines is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.ethos-wines.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-gardening-with-a-smile",
+    "slug": "gardening-with-a-smile",
+    "name": "Gardening with a Smile",
+    "description": "Gardening with a Smile is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.gardeningwithasmile.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-cadent",
+    "slug": "cadent",
+    "name": "Cadent",
+    "description": "Cadent is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://cadent.au/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-erin-morning",
+    "slug": "erin-morning",
+    "name": "Erin Morning & Co.",
+    "description": "Erin Morning & Co. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://erinmorning.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-codefortynine",
+    "slug": "codefortynine",
+    "name": "codefortynine",
+    "description": "codefortynine is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://codefortynine.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-barcodes",
+    "slug": "barcodes",
+    "name": "Barcodes Limited",
+    "description": "Barcodes Limited is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.barcodes.co.nz/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-rise-movement",
+    "slug": "rise-movement",
+    "name": "Rise Movement",
+    "description": "Rise Movement is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "http://www.risemovement.space",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-walker-s-on-it",
+    "slug": "walker-s-on-it",
+    "name": "Walker's On It",
+    "description": "Walker's On It is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "http://www.walkersonit.com.au/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-croxsons",
+    "slug": "croxsons",
+    "name": "Croxsons",
+    "description": "Croxsons is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.croxsons.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-moonscape-mining",
+    "slug": "moonscape-mining",
+    "name": "Moonscape Mining Oy",
+    "description": "Moonscape Mining Oy is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.linkedin.com/in/mikaellepisto/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-domaine-labs",
+    "slug": "domaine-labs",
+    "name": "Domaine Labs Inc",
+    "description": "Domaine Labs Inc is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.domaine.law/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-studio1-x",
+    "slug": "studio1-x",
+    "name": "Studio1-X Limited",
+    "description": "Studio1-X Limited is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "http://studio-1x.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-data-driven-athlete",
+    "slug": "data-driven-athlete",
+    "name": "Data Driven Athlete LLC",
+    "description": "Data Driven Athlete LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://datadrivenathlete.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-send7",
+    "slug": "send7",
+    "name": "SEND7",
+    "description": "SEND7 is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.send7.org/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-meepo",
+    "slug": "meepo",
+    "name": "Meepo AB",
+    "description": "Meepo AB is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.meepo.se",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-isolabs",
+    "slug": "isolabs",
+    "name": "ISOLABS Pty. Ltd.",
+    "description": "ISOLABS Pty. Ltd. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "http://isolabs.com.au/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-pagoda",
+    "slug": "pagoda",
+    "name": "PAGODA",
+    "description": "PAGODA is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.thepagoda.co/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ancient-sled-coffee-company",
+    "slug": "ancient-sled-coffee-company",
+    "name": "Ancient Sled Coffee Company Inc",
+    "description": "Ancient Sled Coffee Company Inc is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://ancientsled.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-languagecourse",
+    "slug": "languagecourse",
+    "name": "LanguageCourse S.L.",
+    "description": "LanguageCourse S.L. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.languagecourse.net",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-fire-belgium",
+    "slug": "fire-belgium",
+    "name": "FIRE Belgium",
+    "description": "FIRE Belgium is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://firebelgium.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-necessitating-change",
+    "slug": "necessitating-change",
+    "name": "Necessitating Change",
+    "description": "Necessitating Change is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://necessitatingchange.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-rat-betty",
+    "slug": "rat-betty",
+    "name": "Rat Betty Ltd",
+    "description": "Rat Betty Ltd is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.ratbetty.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-unlisted-artists",
+    "slug": "unlisted-artists",
+    "name": "Unlisted Artists Pty Ltd",
+    "description": "Unlisted Artists Pty Ltd is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.unlisted.tv/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-data-mie",
+    "slug": "data-mie",
+    "name": "data&mie Oy",
+    "description": "data&mie Oy is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.datamie.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-lunaone",
+    "slug": "lunaone",
+    "name": "LunaONE GmbH",
+    "description": "LunaONE GmbH is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.lunaone.de/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-waking-up",
+    "slug": "waking-up",
+    "name": "Waking Up, LLC",
+    "description": "Waking Up, LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.wakingup.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-foundation-fortified",
+    "slug": "foundation-fortified",
+    "name": "Foundation Fortified",
+    "description": "Foundation Fortified is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.Foundationfortified.org",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-catalyst-driven-technologies",
+    "slug": "catalyst-driven-technologies",
+    "name": "CATALYST DRIVEN TECHNOLOGIES LLC",
+    "description": "CATALYST DRIVEN TECHNOLOGIES LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://catalystdriventech.com",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-bypsykologene",
+    "slug": "bypsykologene",
+    "name": "Bypsykologene AS",
+    "description": "Bypsykologene AS is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://bypsykologene.no/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-langel-consulting-group",
+    "slug": "langel-consulting-group",
+    "name": "Langel Consulting Group",
+    "description": "Langel Consulting Group is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.langelconsulting.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ips-consulting",
+    "slug": "ips-consulting",
+    "name": "IPS Consulting",
+    "description": "IPS Consulting is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-tiime-s-r-l",
+    "slug": "tiime-s-r-l",
+    "name": "TIIME S.à r.l.",
+    "description": "TIIME S.à r.l. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "http://www.tiime.org/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-net-negative-gardening",
+    "slug": "net-negative-gardening",
+    "name": "Net Negative Gardening",
+    "description": "Net Negative Gardening is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.netnegativegardening.com.au/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-easy-emdr",
+    "slug": "easy-emdr",
+    "name": "Easy EMDR Inc",
+    "description": "Easy EMDR Inc is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.easy-emdr.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-impact-books",
+    "slug": "impact-books",
+    "name": "Impact Books Ltd.",
+    "description": "Impact Books Ltd. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://impactbooks.store/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-third-win-group",
+    "slug": "third-win-group",
+    "name": "Third Win Group",
+    "description": "Third Win Group is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://thirdwin.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-openbit",
+    "slug": "openbit",
+    "name": "OpenBit GmbH",
+    "description": "OpenBit GmbH is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-correct-software",
+    "slug": "correct-software",
+    "name": "Correct Software Ltd.",
+    "description": "Correct Software Ltd. is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-make-tahoe",
+    "slug": "make-tahoe",
+    "name": "Make Tahoe",
+    "description": "Make Tahoe is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.maketahoe.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-curious-laboratories",
+    "slug": "curious-laboratories",
+    "name": "Curious Laboratories LTD",
+    "description": "Curious Laboratories LTD is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.thecuriousbartender.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-meshin-movement",
+    "slug": "meshin-movement",
+    "name": "Meshin Movement, LLC",
+    "description": "Meshin Movement, LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.meshinmovement.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-studio-internazionale-maulucci",
+    "slug": "studio-internazionale-maulucci",
+    "name": "Studio Internazionale Maulucci",
+    "description": "Studio Internazionale Maulucci is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "http://www.moadvisor.co.uk/it/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-4thwall",
+    "slug": "4thwall",
+    "name": "4thWall",
+    "description": "4thWall is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-bullet-journal",
+    "slug": "bullet-journal",
+    "name": "Bullet Journal",
+    "description": "Bullet Journal is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.bulletjournal.com",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-eudaimonia-investments",
+    "slug": "eudaimonia-investments",
+    "name": "Eudaimonia Investments GmbH",
+    "description": "Eudaimonia Investments GmbH is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-sleek-habitat",
+    "slug": "sleek-habitat",
+    "name": "Sleek Habitat",
+    "description": "Sleek Habitat is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://sleekhabitat.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-fluffy-torpedo-fine-ice-cream",
+    "slug": "fluffy-torpedo-fine-ice-cream",
+    "name": "Fluffy Torpedo Fine Ice Cream",
+    "description": "Fluffy Torpedo Fine Ice Cream is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.fluffytorpedo.diamonds/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ali-abdaal",
+    "slug": "ali-abdaal",
+    "name": "Ali Abdaal Ltd",
+    "description": "Ali Abdaal Ltd is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://aliabdaal.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-indie-doc-trailer",
+    "slug": "indie-doc-trailer",
+    "name": "Indie Doc Trailer LLC",
+    "description": "Indie Doc Trailer LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-archer-connections",
+    "slug": "archer-connections",
+    "name": "Archer Connections",
+    "description": "Archer Connections is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.archer-connections.com",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-boas",
+    "slug": "boas",
+    "name": "BOAS",
+    "description": "BOAS is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://boas.co/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-lendsolid",
+    "slug": "lendsolid",
+    "name": "LendSolid LLC",
+    "description": "LendSolid LLC is a company member of the Giving What We Can Company Pledge, committing to donate at least 10% of net profits to highly effective charities.",
+    "website": "https://www.lendsolid.com/",
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "gwwc-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

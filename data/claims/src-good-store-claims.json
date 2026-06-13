@@ -1,0 +1,178 @@
+[
+  {
+    "id": "clm-good-store-coffee-donation",
+    "offering_id": "off-good-store-coffee",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "We're searching the world for the best versions of the products that you use daily, made by the best people, and then we're giving all of the profits from those products away to those who need it.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-tea-donation",
+    "offering_id": "off-good-store-tea",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "We're searching the world for the best versions of the products that you use daily, made by the best people, and then we're giving all of the profits from those products away to those who need it.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-socks-donation",
+    "offering_id": "off-good-store-socks",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "Since you need to buy socks, you might as well do it in a way that brings a little joy to your doorstep every month, supports independent artists, and donates 100% of the profit to charity.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-underwear-donation",
+    "offering_id": "off-good-store-underwear",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "Since you need to buy socks, you might as well do it in a way that brings a little joy to your doorstep every month, supports independent artists, and donates 100% of the profit to charity.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-soap-bath-donation",
+    "offering_id": "off-good-store-soap-bath",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "We're searching the world for the best versions of the products that you use daily, made by the best people, and then we're giving all of the profits from those products away to those who need it.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-shampoo-bars-donation",
+    "offering_id": "off-good-store-shampoo-bars",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "We're searching the world for the best versions of the products that you use daily, made by the best people, and then we're giving all of the profits from those products away to those who need it.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-candles-donation",
+    "offering_id": "off-good-store-candles",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "We're searching the world for the best versions of the products that you use daily, made by the best people, and then we're giving all of the profits from those products away to those who need it.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "clm-good-store-household-cleaning-donation",
+    "offering_id": "off-good-store-household-cleaning",
+    "org_id": "org-good-store",
+    "claim_type": "donation_percentage",
+    "claim_text": "We're searching the world for the best versions of the products that you use daily, made by the best people, and then we're giving all of the profits from those products away to those who need it.",
+    "parsed_value": {
+      "percentage": 100,
+      "basis": "profits"
+    },
+    "confidence": 0.92,
+    "risk_level": "low",
+    "source_id": "src-good-store",
+    "beneficiary": "Charitable organisations (Good Store)",
+    "cause_area": "Effective Giving",
+    "impact_scope": "good-store",
+    "status": "active",
+    "valid_from": null,
+    "valid_until": null,
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "org-humanitix",
+    "slug": "humanitix",
+    "name": "Humanitix",
+    "description": "Event ticketing platform that donates 100% of booking-fee profits to education charities. Founded in Australia, now operating globally.",
+    "website": "https://humanitix.com",
+    "org_type": "company",
+    "country": "AU",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "ticketing",
+      "events",
+      "education"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-patagonia",
+    "slug": "patagonia",
+    "name": "Patagonia",
+    "description": "Outdoor apparel and gear company. In 2022, founder Yvon Chouinard transferred ownership to a trust and nonprofit, directing all profits to environmental causes.",
+    "website": "https://patagonia.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "outdoor",
+      "apparel",
+      "gear",
+      "environment",
+      "climate"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-one-for-the-world",
+    "slug": "one-for-the-world",
+    "name": "One for the World",
+    "description": "Organization that helps people pledge to donate a meaningful portion of their income to highly effective charities, with a focus on students and professionals.",
+    "website": "https://1fortheworld.org",
+    "org_type": "nonprofit",
+    "country": "US",
+    "source_ids": [
+      "src-gwwc"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "pledging",
+      "giving",
+      "consulting",
+      "education"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-good-store",
+    "slug": "good-store",
+    "name": "Good Store",
+    "description": "Online shop run by DFTBA (Hank and John Green) where all profits go directly to charity. Brands include Awesome Socks Club (Partners in Health), Sun Basin Soap, Keats & Co. coffee, and EcoGeek cleaning products. Has raised over $12 million for charity.",
+    "website": "https://good.store",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "shop",
+      "merchandise",
+      "charity",
+      "education",
+      "global-health"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-newmans-own",
+    "slug": "newmans-own",
+    "name": "Newman's Own",
+    "description": "Food and beverage company founded by Paul Newman in 1982. Newman's Own Foundation owns the brand and donates 100% of after-tax profits to charity. Has donated over $600 million since founding.",
+    "website": "https://www.newmansown.com",
+    "org_type": "foundation",
+    "country": "US",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "food",
+      "salad-dressing",
+      "organic",
+      "grocery"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-who-gives-a-crap",
+    "slug": "who-gives-a-crap",
+    "name": "Who Gives a Crap",
+    "description": "Toilet paper and paper products company that donates 50% of profits to sanitation and hygiene projects globally. Products are made from bamboo or recycled materials.",
+    "website": "https://au.whogivesacrap.org",
+    "org_type": "company",
+    "country": "AU",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "toilet-paper",
+      "paper-products",
+      "sanitation",
+      "environment"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-3dtotal",
+    "slug": "3dtotal",
+    "name": "3Dtotal",
+    "description": "Art education publisher producing books, tutorials, and resources for digital artists and traditional artists. Donates 50% of profits to effective charities as a GWWC Company Pledge member.",
+    "website": "https://3dtotal.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "art",
+      "books",
+      "digital-art",
+      "publishing"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-waking-up",
+    "slug": "waking-up",
+    "name": "Waking Up",
+    "description": "Meditation and philosophy app founded by Sam Harris. Offers guided meditations, theory lectures, and mindfulness courses. Pledges at least 10% of profits to effective charities as a GWWC Company Pledge member.",
+    "website": "https://www.wakingup.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "app",
+      "meditation",
+      "mental-health",
+      "wellbeing"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-secrid",
+    "slug": "secrid",
+    "name": "Secrid",
+    "description": "Dutch company making card protectors and slim wallets with a patented card mechanism. Member of the Profit for Good Alliance, pledging a minimum of 10% of annual net profits to charitable causes.",
+    "website": "https://secrid.com",
+    "org_type": "company",
+    "country": "NL",
+    "source_ids": [
+      "src-profit-for-good-alliance"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "wallets",
+      "accessories",
+      "leather-goods"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-boas",
+    "slug": "boas",
+    "name": "BOAS",
+    "description": "Dutch sustainable outdoor apparel brand. Member of the Profit for Good Alliance, pledging a minimum of 10% of annual net profits to charitable causes.",
+    "website": "https://boas.co",
+    "org_type": "company",
+    "country": "NL",
+    "source_ids": [
+      "src-profit-for-good-alliance"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "apparel",
+      "sustainable",
+      "outdoor"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-awesome-socks-club",
+    "slug": "awesome-socks-club",
+    "name": "Awesome Socks Club",
+    "description": "Subscription sock and underwear brand sold through Good Store (DFTBA). 100% of profits go to Partners in Health's Maternal Center of Excellence in Sierra Leone. Designs feature artwork by commissioned artists.",
+    "website": "https://good.store/collections/awesome-socks-club",
+    "org_type": "company",
+    "country": "US",
+    "parent_org_id": "org-good-store",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "socks",
+      "subscription",
+      "education",
+      "global-health"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-ecogeek",
+    "slug": "ecogeek",
+    "name": "EcoGeek",
+    "description": "Eco-friendly cleaning products sold through Good Store. 100% of profits go to coral reef conservation.",
+    "website": "https://good.store/collections/ecogeek-eco-friendly-cleaning-products",
+    "org_type": "company",
+    "country": "US",
+    "parent_org_id": "org-good-store",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "cleaning",
+      "eco-friendly",
+      "household",
+      "environment",
+      "coral-reef"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-keats-and-co",
+    "slug": "keats-and-co",
+    "name": "Keats & Co.",
+    "description": "Coffee and tea subscription sold through Good Store. 100% of profits go to funding TB treatment through Partners in Health in Lesotho.",
+    "website": "https://good.store/collections/keats-co",
+    "org_type": "company",
+    "country": "US",
+    "parent_org_id": "org-good-store",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "coffee",
+      "tea",
+      "subscription",
+      "global-health"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-sun-basin-soap",
+    "slug": "sun-basin-soap",
+    "name": "Sun Basin Soap",
+    "description": "Handmade soaps sold through Good Store. 100% of profits go to Partners in Health.",
+    "website": "https://good.store/collections/sun-basin-soap",
+    "org_type": "company",
+    "country": "US",
+    "parent_org_id": "org-good-store",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "soap",
+      "handmade",
+      "personal-care",
+      "global-health"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-give-industries",
+    "slug": "give-industries",
+    "name": "Give Industries",
+    "description": "Australian company that commits 100% of profits to effective charities guided by external charity evaluators. GWWC Company Pledge member. Recipients include Against Malaria Foundation, GiveDirectly, Living Goods, Animals Australia.",
+    "website": "https://www.giveindustries.com.au",
+    "org_type": "company",
+    "country": "AU",
+    "source_ids": [
+      "src-gwwc-company-pledge",
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "manufacturing",
+      "australia",
+      "effective-charities",
+      "gwwc"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-rituals",
+    "slug": "rituals-cosmetics",
+    "name": "Rituals Cosmetics",
+    "description": "Netherlands-based wellness and beauty brand. In 2024, introduced a 10% Profit Pledge \u2014 a long-term commitment to dedicate at least 10% of annual net profits to causes improving wellbeing of people and planet. Partners include Sacred Forests, Super Chill, Pristine Seas, Blue Marine Foundation, War Child.",
+    "website": "https://www.rituals.com",
+    "org_type": "company",
+    "country": "NL",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "beauty",
+      "wellness",
+      "cosmetics",
+      "personal-care"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-croxsons",
+    "slug": "croxsons",
+    "name": "Croxsons",
+    "description": "UK glass bottle and packaging supplier. Joined the GWWC 10% Pledge in October 2024, committing at least 10% of net profits to effective charities. Has supported charitable giving for over three decades.",
+    "website": "https://www.croxsons.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "glass",
+      "packaging",
+      "b2b",
+      "uk",
+      "manufacturing"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-ecosia",
+    "slug": "ecosia",
+    "name": "Ecosia",
+    "description": "German search engine that uses ad revenue to plant trees globally. Legally committed to spending at least 80% of profits on tree planting. Certified B Corp and legally committed as a purpose company (not a profit-maximizing entity).",
+    "website": "https://www.ecosia.org",
+    "org_type": "company",
+    "country": "DE",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "search-engine",
+      "tech",
+      "trees",
+      "environment",
+      "browser"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-impact-books",
+    "slug": "impact-books",
+    "name": "Impact Books",
+    "description": "UK book publisher. GWWC Company Pledge member, donating at least 10% of profits to effective charities.",
+    "website": "https://impactbooksltd.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "books",
+      "publishing",
+      "uk",
+      "education"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-languagecourse",
+    "slug": "languagecourse-sl",
+    "name": "LanguageCourse S.L.",
+    "description": "Spanish online language course booking platform. GWWC Company Pledge member donating at least 10% of profits to effective charities.",
+    "website": "https://www.languagecourse.net",
+    "org_type": "company",
+    "country": "ES",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "language-learning",
+      "education",
+      "online",
+      "travel"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-toast-ale",
+    "slug": "toast-ale",
+    "name": "Toast Ale",
+    "description": "UK craft beer brewery that brews beer using surplus fresh bread that would otherwise go to waste. 100% of profits go to charities fighting climate change and food waste.",
+    "website": "https://www.toastale.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "beer",
+      "brewing",
+      "food-waste",
+      "environment",
+      "climate"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-greyston-bakery",
+    "slug": "greyston-bakery",
+    "name": "Greyston Bakery",
+    "description": "New York bakery pioneering open hiring \u2014 employing anyone who signs up regardless of background. All profits support the Greyston Foundation, which funds housing, childcare, and social services in Yonkers, NY. Known for supplying brownies to Ben & Jerry's.",
+    "website": "https://www.greyston.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "bakery",
+      "food",
+      "open-hiring",
+      "social-enterprise",
+      "community"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-studio-1x",
+    "slug": "studio-1x",
+    "name": "Studio-1X",
+    "description": "Sustainable streetwear brand and founding GWWC Company Pledge member. Donates at least 10% of profits to effective charities, with a focus on global health and animal welfare.",
+    "website": "https://studio1x.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "apparel",
+      "streetwear",
+      "sustainable",
+      "fashion"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-carpenter-and-co",
+    "slug": "carpenter-and-co",
+    "name": "Carpenter & Co.",
+    "description": "Canadian consulting and professional services firm. Founder has pledged 10% of company profits to highly effective charities as a GWWC Company Pledge member.",
+    "website": "https://www.carpenterco.ca",
+    "org_type": "company",
+    "country": "CA",
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "consulting",
+      "professional-services",
+      "canada"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-innocent-drinks",
+    "slug": "innocent-drinks",
+    "name": "Innocent Drinks",
+    "description": "UK smoothie and juice brand (majority owned by Coca-Cola). Donates 10% of annual profits to charity through the Innocent Foundation, funding sustainable farming and food security projects in countries where fruit is sourced.",
+    "website": "https://www.innocentdrinks.co.uk",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "drinks",
+      "smoothies",
+      "juice",
+      "food",
+      "environment"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-belu-water",
+    "slug": "belu-water",
+    "name": "Belu Water",
+    "description": "UK social enterprise selling bottled mineral water and water filtration systems to restaurants and hospitality. Has donated 100% of net profits to WaterAid since 2011, totalling \u00a36.1M+.",
+    "website": "https://belu.org",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "water",
+      "bottled-water",
+      "hospitality",
+      "social-enterprise"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-thankyou-group",
+    "slug": "thankyou-group",
+    "name": "Thankyou",
+    "description": "Australian consumer goods company 100% owned by the Thankyou Charitable Trust. Every cent of profit after operations goes to end extreme poverty. Has donated $19.34M AUD since founding. Sells personal care and household products in Australian and NZ supermarkets.",
+    "website": "https://thankyou.co",
+    "org_type": "company",
+    "country": "AU",
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "personal-care",
+      "cleaning",
+      "household",
+      "social-enterprise",
+      "australia"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-two-blind-brothers",
+    "slug": "two-blind-brothers",
+    "name": "Two Blind Brothers",
+    "description": "US apparel brand founded by two brothers with degenerative eye disease. Donates 100% of profits to the Foundation Fighting Blindness and community support for blind and visually impaired people. Has raised $1.7M+ for eye disease research.",
+    "website": "https://twoblindbrothers.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "apparel",
+      "clothing",
+      "soft-goods",
+      "disability",
+      "vision"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-brewgooder",
+    "slug": "brewgooder",
+    "name": "Brewgooder",
+    "description": "Scottish craft beer social enterprise. Donates 100% of profits to clean water and sanitation projects in Malawi. B Corp certified. Has funded 132+ projects reaching 145,000+ people.",
+    "website": "https://brewgooder.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "beer",
+      "craft-beer",
+      "brewery",
+      "social-enterprise",
+      "scotland"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-elvis-and-kresse",
+    "slug": "elvis-and-kresse",
+    "name": "Elvis & Kresse",
+    "description": "UK luxury accessories brand making bags, wallets, and homeware from reclaimed materials \u2014 primarily decommissioned fire hoses and leather off-cuts. Donates 50% of profits to charity: fire hose products support the Fire Fighters Charity, leather products fund Barefoot College solar engineering scholarships for women.",
+    "website": "https://www.elvisandkresse.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "bags",
+      "wallets",
+      "accessories",
+      "upcycled",
+      "luxury",
+      "sustainable"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-toms",
+    "slug": "toms",
+    "name": "TOMS",
+    "description": "US footwear and accessories company. Since 2021, donates one third of annual net profits to grassroots organizations working on mental health, gun violence prevention, and equal access to opportunity in the US. Previously ran a product-donation one-for-one model.",
+    "website": "https://www.toms.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "shoes",
+      "footwear",
+      "apparel",
+      "accessories",
+      "eyewear"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-awesome-coffee-club",
+    "slug": "awesome-coffee-club",
+    "name": "Awesome Coffee Club",
+    "description": "US coffee subscription brand from the creators of Good Store (Hank and John Green / DFTBA). 100% of profits go to Partners in Health to fund the Maternal Center of Excellence in Kono District, Sierra Leone. Has raised $7.5M+ for maternal and infant health.",
+    "website": "https://awesomecoffeeclub.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "coffee",
+      "subscription",
+      "global-health",
+      "maternal-health"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-divine-chocolate",
+    "slug": "divine-chocolate",
+    "name": "Divine Chocolate",
+    "description": "UK/US Fairtrade chocolate company 45% owned by Kuapa Kokoo, a cooperative of 80,000+ cocoa farmers in Ghana. Farmers receive dividends on their shareholding, plus a Fairtrade premium for development projects. The world's first farmer-owned Fairtrade chocolate brand.",
+    "website": "https://www.divinechocolate.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "chocolate",
+      "fairtrade",
+      "farmer-owned",
+      "food",
+      "ethical"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-one-water",
+    "slug": "one-water",
+    "name": "One Water",
+    "description": "UK social enterprise selling bottled water. Profits flow to The One Foundation, funding WASH (water, sanitation, hygiene) programs across Sub-Saharan Africa. Has invested \u00a330M+ reaching 5M+ people. B Corp certified.",
+    "website": "https://onewater.org.uk",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "water",
+      "bottled-water",
+      "hospitality",
+      "social-enterprise"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-liberation-foods",
+    "slug": "liberation-foods",
+    "name": "Liberation Foods",
+    "description": "UK Community Interest Company where more than 50% is owned by a cooperative of smallholder farmer groups from Ghana, India, Nicaragua, Bolivia, South Africa and other countries. Farmers participate in profits as shareholders and hold board seats. UK's only farmer-owned Fairtrade nut company.",
+    "website": "https://chooseliberation.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "nuts",
+      "fairtrade",
+      "farmer-owned",
+      "snacks",
+      "nut-butter"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-tonys-chocolonely",
+    "slug": "tonys-chocolonely",
+    "name": "Tony's Chocolonely",
+    "description": "Dutch chocolate company on a mission to make 100% slave-free chocolate the norm. Pays cocoa farmers living-income premiums (\u20ac505\u2013\u20ac669/metric ton above farmgate price) and donates 1% of annual revenue to the Chocolonely Foundation, which supports farming communities in C\u00f4te d'Ivoire and Ghana. Reports a deliberate near-zero profit margin, keeping value upstream with farmers.",
+    "website": "https://tonyschocolonely.com",
+    "org_type": "company",
+    "country": "NL",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "chocolate",
+      "fairtrade",
+      "slave-free",
+      "cocoa",
+      "ghana",
+      "ethical",
+      "mission-driven"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-better-world-books",
+    "slug": "better-world-books",
+    "name": "Better World Books",
+    "description": "US used and new book retailer certified as a B Corp since 2003. Donates 5% of net revenues to literacy charities (buyer's choice from a curated list). Has raised over $35M for libraries and literacy programs, donated 38M+ books. Also donates 15% of net selling price back to libraries that supply used books.",
+    "website": "https://www.betterworldbooks.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-official-site",
+      "src-b-corp"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "books",
+      "used-books",
+      "literacy",
+      "libraries",
+      "education",
+      "b-corp"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-bombas",
+    "slug": "bombas",
+    "name": "Bombas",
+    "description": "US comfort clothing brand specialising in socks, underwear, and t-shirts. For every item sold, an equivalent item is donated to homeless shelters and community organizations via 4,000+ Giving Partners. Has donated 200M+ items since 2013.",
+    "website": "https://bombas.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "socks",
+      "underwear",
+      "clothing",
+      "apparel",
+      "homelessness",
+      "one-for-one"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-warby-parker",
+    "slug": "warby-parker",
+    "name": "Warby Parker",
+    "description": "US eyewear company selling glasses and sunglasses direct-to-consumer. Via their Buy a Pair, Give a Pair program: for every pair sold, a pair is distributed to someone in need through VisionSpring-trained vision entrepreneurs in developing countries. Has distributed 20M+ pairs across 80+ countries.",
+    "website": "https://www.warbyparker.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "eyewear",
+      "glasses",
+      "sunglasses",
+      "vision",
+      "one-for-one",
+      "visionspring"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-goalswon",
+    "slug": "goalswon",
+    "name": "GoalsWon",
+    "description": "Accountability coaching app and platform. For every paid subscription, GoalsWon delivers one free subscription to someone doing high-impact work. Has provided pro bono coaching to Animal Advocacy Africa, Happier Lives Institute, Vida Plena, Legal Priorities Project, Redwood Research, SEADS, and others. Listed on EA Services Directory.",
+    "website": "https://goalswon.com",
+    "org_type": "company",
+    "country": "AU",
+    "source_ids": [
+      "src-ea-services",
+      "src-official-site"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "coaching",
+      "accountability",
+      "productivity",
+      "ea-aligned",
+      "pro-bono",
+      "app"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-altruistic-agency",
+    "slug": "altruistic-agency",
+    "name": "Altruistic Agency",
+    "description": "Web development and tech services agency providing free technical support and development to high-impact nonprofits and charities. Services include web development, tech support, software engineering, and IT security. Listed on EA Services Directory.",
+    "website": "https://altruistic.agency",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "web-development",
+      "tech",
+      "software",
+      "it",
+      "pro-bono",
+      "nonprofits",
+      "ea-aligned"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-scarlet-spark",
+    "slug": "scarlet-spark",
+    "name": "Scarlet Spark",
+    "description": "Strategy and organizational health consultancy providing free consulting services to animal advocacy charities. Services include strategy, organizational health, people operations, and leadership development. Explicitly serves the animal advocacy sector on a pro bono basis. Listed on EA Services Directory.",
+    "website": "https://scarletspark.org",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "consulting",
+      "strategy",
+      "organizational-health",
+      "pro-bono",
+      "animal-advocacy",
+      "ea-aligned"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-good-impressions",
+    "slug": "good-impressions",
+    "name": "Good Impressions",
+    "description": "EA-focused digital marketing agency offering paid advertising, SEO, and web analytics services. Funded by grants from Longview Philanthropy and Open Philanthropy, allowing the agency to subsidize its fees so that cost does not block high-impact projects. Clients include Giving What We Can and other EA organisations. Listed on EA Services Directory.",
+    "website": "https://goodimpressionsmedia.com",
+    "org_type": "company",
+    "country": "GB",
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "marketing",
+      "paid-ads",
+      "seo",
+      "digital-marketing",
+      "ea-aligned",
+      "subsidized",
+      "nonprofits"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "org-beneficial-state-bank",
+    "slug": "beneficial-state-bank",
+    "name": "Beneficial State Bank",
+    "description": "US community development bank (CDFI) majority-owned by the Beneficial State Foundation, a nonprofit. Permanently governed in the public interest with zero lending to fossil fuels, private prisons, or weapons manufacturing. Over 90% of total lending supports positive-impact sectors. Certified B Corp and signatory to UNEP Principles for Responsible Banking.",
+    "website": "https://beneficialstatebank.com",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-official-site",
+      "src-b-corp"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "banking",
+      "financial-services",
+      "cdfi",
+      "b-corp",
+      "mission-driven",
+      "community-development"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  }
+]

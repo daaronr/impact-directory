@@ -1,0 +1,386 @@
+[
+  {
+    "id": "off-lovable-fp",
+    "slug": "lovable-fp",
+    "name": "Lovable — Founders Pledge",
+    "org_id": "org-lovable",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Anton Osika: Founder of Lovable). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-wise-fp",
+    "slug": "wise-fp",
+    "name": "Wise — Founders Pledge",
+    "org_id": "org-wise",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Taavet Hinrikus: Co-Founder and Chairman of Wise). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-canva-fp",
+    "slug": "canva-fp",
+    "name": "Canva — Founders Pledge",
+    "org_id": "org-canva",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Cameron Adams: Co-founder of Canva). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-personio-fp",
+    "slug": "personio-fp",
+    "name": "Personio — Founders Pledge",
+    "org_id": "org-personio",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Hanno Renner: Co-Founder and CEO of Personio). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-n8n-fp",
+    "slug": "n8n-fp",
+    "name": "n8n — Founders Pledge",
+    "org_id": "org-n8n",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Jan Oberhauser: Founder/CEO n8n). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-segment-fp",
+    "slug": "segment-fp",
+    "name": "Segment — Founders Pledge",
+    "org_id": "org-segment",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Erika Reinhardt: Investor of Segment). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-mambu-fp",
+    "slug": "mambu-fp",
+    "name": "Mambu — Founders Pledge",
+    "org_id": "org-mambu",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Sofia Nunes: Co-Founder of Mambu). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-asana-fp",
+    "slug": "asana-fp",
+    "name": "Asana — Founders Pledge",
+    "org_id": "org-asana",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Dustin Moskovitz: Co-Founder and CEO of Asana). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-twelve-fp",
+    "slug": "twelve-fp",
+    "name": "Twelve — Founders Pledge",
+    "org_id": "org-twelve",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Etosha Cave: Co-Founder and Chief Science Officer of Twelve). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-andela-fp",
+    "slug": "andela-fp",
+    "name": "Andela — Founders Pledge",
+    "org_id": "org-andela",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Christina Sass: Co-founder and Chair of Andela). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-klarna-fp",
+    "slug": "klarna-fp",
+    "name": "Klarna — Founders Pledge",
+    "org_id": "org-klarna",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Niklas Adalberth: Founder of Klarna). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-bolt-fp",
+    "slug": "bolt-fp",
+    "name": "Bolt — Founders Pledge",
+    "org_id": "org-bolt",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Markus Villig: Co-founder and CEO of Bolt). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-uipath-fp",
+    "slug": "uipath-fp",
+    "name": "UiPath — Founders Pledge",
+    "org_id": "org-uipath",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Daniel Dines: Founder and CEO of UiPath). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-unity-technologies-fp",
+    "slug": "unity-technologies-fp",
+    "name": "Unity Technologies — Founders Pledge",
+    "org_id": "org-unity-technologies",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (David Helgason: Founder, Unity Technologies). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-monzo-fp",
+    "slug": "monzo-fp",
+    "name": "Monzo — Founders Pledge",
+    "org_id": "org-monzo",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (TS Anil: CEO of Monzo). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-kabbage-fp",
+    "slug": "kabbage-fp",
+    "name": "Kabbage — Founders Pledge",
+    "org_id": "org-kabbage",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Kathryn Petralia: Co-Founder of Kabbage). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-hassle-fp",
+    "slug": "hassle-fp",
+    "name": "Hassle — Founders Pledge",
+    "org_id": "org-hassle",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Alex Depledge: Co-founder & CEO of Hassle). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-coalition-fp",
+    "slug": "coalition-fp",
+    "name": "Coalition — Founders Pledge",
+    "org_id": "org-coalition",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Joshua Motta: CEO and Co-Founder of Coalition). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-front-fp",
+    "slug": "front-fp",
+    "name": "Front — Founders Pledge",
+    "org_id": "org-front",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Mathilde Collin: Founder and CEO of Front). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-webflow-fp",
+    "slug": "webflow-fp",
+    "name": "Webflow — Founders Pledge",
+    "org_id": "org-webflow",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Bryant Chou: Co-founder and CTO of Webflow). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-snowflake-fp",
+    "slug": "snowflake-fp",
+    "name": "Snowflake — Founders Pledge",
+    "org_id": "org-snowflake",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Marcin Zukowski: Founder of Snowflake). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ironclad-fp",
+    "slug": "ironclad-fp",
+    "name": "Ironclad — Founders Pledge",
+    "org_id": "org-ironclad",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Cai WangWilt: Founder of Ironclad). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-living-carbon-fp",
+    "slug": "living-carbon-fp",
+    "name": "Living Carbon — Founders Pledge",
+    "org_id": "org-living-carbon",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Maddie Hall: Founder of Living Carbon). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-equip-fp",
+    "slug": "equip-fp",
+    "name": "Equip — Founders Pledge",
+    "org_id": "org-equip",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Charitable Employer",
+    "description": "Company led by a public Founders Pledge member (Kristina Saffran: Founder of Equip). Founders Pledge members publicly commit to give a meaningful portion of personal proceeds to the most effective charities in the world.",
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

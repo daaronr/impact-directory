@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "off-humanitix-platform",
+    "slug": "humanitix-event-ticketing",
+    "org_id": "org-humanitix",
+    "name": "Humanitix Event Ticketing Platform",
+    "description": "Full-service event ticketing and registration platform. Booking fees go entirely to education charities rather than to shareholders.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Event Services",
+    "tags": [
+      "ticketing",
+      "events",
+      "nonprofit",
+      "education",
+      "registration",
+      "conference"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-patagonia-apparel",
+    "slug": "patagonia-apparel",
+    "org_id": "org-patagonia",
+    "name": "Patagonia Apparel",
+    "description": "Outdoor and activewear clothing line. All profits flow to environmental nonprofit Holdfast Collective.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Apparel",
+    "tags": [
+      "clothing",
+      "outdoor",
+      "apparel",
+      "environment"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-patagonia-gear",
+    "slug": "patagonia-gear",
+    "org_id": "org-patagonia",
+    "name": "Patagonia Outdoor Gear",
+    "description": "Backpacks, sleeping bags, climbing gear, and other outdoor equipment. All profits flow to environmental causes via the Patagonia Purpose Trust.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Outdoor Gear",
+    "tags": [
+      "gear",
+      "outdoor",
+      "camping",
+      "climbing",
+      "environment"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-oftw-pledge-program",
+    "slug": "one-for-the-world-pledge",
+    "org_id": "org-one-for-the-world",
+    "name": "One for the World Pledge Program",
+    "description": "Structured giving pledge program helping individuals commit to donating 1%+ of income to highly effective charities.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Philanthropy Consulting",
+    "tags": [
+      "pledge",
+      "giving",
+      "consulting",
+      "effective-altruism"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-good-store-shop",
+    "slug": "good-store-shop",
+    "org_id": "org-good-store",
+    "name": "Good Store",
+    "description": "Online shop selling socks, soap, coffee, eco cleaning products, and merchandise from multiple impact brands. All profits from every purchase go directly to charity. Brands include Awesome Socks Club, Sun Basin Soap, Keats & Co., and EcoGeek.",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Online Retail",
+    "tags": [
+      "shop",
+      "socks",
+      "soap",
+      "coffee",
+      "cleaning",
+      "charity"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-awesome-socks-club-subscription",
+    "slug": "awesome-socks-club-subscription",
+    "org_id": "org-awesome-socks-club",
+    "name": "Awesome Socks Club Subscription",
+    "description": "Monthly subscription delivering artist-designed socks and underwear. 100% of profits fund Partners in Health's Maternal Center of Excellence in Sierra Leone. Individual items also available without subscription.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Apparel",
+    "tags": [
+      "socks",
+      "underwear",
+      "subscription",
+      "global-health",
+      "maternal-health"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-who-gives-a-crap-toilet-paper",
+    "slug": "who-gives-a-crap-toilet-paper",
+    "org_id": "org-who-gives-a-crap",
+    "name": "Who Gives a Crap Toilet Paper & Paper Products",
+    "description": "Bamboo and recycled-material toilet paper, paper towels, and tissues. 50% of profits fund sanitation and hygiene projects globally, with a focus on building toilets in the developing world.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Household",
+    "tags": [
+      "toilet-paper",
+      "bamboo",
+      "recycled",
+      "sanitation",
+      "paper-products"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-newmans-own-foods",
+    "slug": "newmans-own-foods",
+    "org_id": "org-newmans-own",
+    "name": "Newman's Own Food Products",
+    "description": "Salad dressings, pasta sauces, snacks, beverages, and pet food sold in supermarkets nationwide. All after-tax profits are donated to Newman's Own Foundation and distributed to thousands of charities.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Grocery",
+    "tags": [
+      "salad-dressing",
+      "pasta-sauce",
+      "snacks",
+      "grocery",
+      "food"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-waking-up-app",
+    "slug": "waking-up-app",
+    "org_id": "org-waking-up",
+    "name": "Waking Up App",
+    "description": "Meditation and philosophy app offering guided meditations, theory lessons, and mindfulness courses. Subscriptions support an app that pledges at least 10% of profits to effective charities.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Wellness / Mental Health",
+    "tags": [
+      "app",
+      "meditation",
+      "mindfulness",
+      "mental-health",
+      "subscription"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-3dtotal-publishing",
+    "slug": "3dtotal-publishing",
+    "org_id": "org-3dtotal",
+    "name": "3Dtotal Art Books & Tutorials",
+    "description": "Art education books, digital tutorials, and reference resources for concept artists, illustrators, and 3D artists. Purchasing supports a company that donates 50% of profits to effective charities.",
+    "offering_type": "product_family",
+    "exactness": "inferred",
+    "category": "Books / Education",
+    "tags": [
+      "art-books",
+      "tutorials",
+      "digital-art",
+      "concept-art",
+      "education"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-secrid-wallets",
+    "slug": "secrid-wallets",
+    "org_id": "org-secrid",
+    "name": "Secrid Card Protectors & Wallets",
+    "description": "Slim wallets and card protectors with a patented aluminium card case mechanism. Protects RFID cards. Made in the Netherlands. Purchasing supports a company pledging at least 10% of net profits to charitable causes.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Accessories",
+    "tags": [
+      "wallets",
+      "card-protector",
+      "RFID",
+      "accessories",
+      "Netherlands"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good-alliance"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-boas-apparel",
+    "slug": "boas-sustainable-apparel",
+    "org_id": "org-boas",
+    "name": "BOAS Sustainable Outdoor Apparel",
+    "description": "Sustainable outdoor clothing and apparel. Purchasing supports a company pledging at least 90% of distributable profits to effective charities annually.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Apparel",
+    "tags": [
+      "apparel",
+      "sustainable",
+      "outdoor",
+      "Netherlands"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good-alliance"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-ecogeek-cleaning",
+    "slug": "ecogeek-cleaning-products",
+    "org_id": "org-ecogeek",
+    "name": "EcoGeek Eco-Friendly Cleaning Products",
+    "description": "Eco-friendly cleaning products including laundry and dishwashing products. 100% of profits go to coral reef restoration through the Coral Reef Alliance.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Household / Cleaning",
+    "tags": [
+      "cleaning",
+      "eco-friendly",
+      "laundry",
+      "dishwashing",
+      "household",
+      "coral-reef",
+      "reef",
+      "ocean"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-keats-coffee",
+    "slug": "keats-co-coffee-subscription",
+    "org_id": "org-keats-and-co",
+    "name": "Keats & Co. Coffee and Tea",
+    "description": "Coffee and tea subscription products. 100% of profits fund long-term tuberculosis treatment in Lesotho through Partners in Health.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "coffee",
+      "tea",
+      "subscription",
+      "global-health"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-sun-basin-soap",
+    "slug": "sun-basin-soap-products",
+    "org_id": "org-sun-basin-soap",
+    "name": "Sun Basin Handmade Soaps",
+    "description": "Handmade soaps. 100% of profits go to Partners in Health funding the Maternal Center of Excellence in Sierra Leone.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Personal Care",
+    "tags": [
+      "soap",
+      "handmade",
+      "personal-care",
+      "global-health",
+      "maternal-health",
+      "sierra-leone"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-give-industries-services",
+    "slug": "give-industries-services",
+    "org_id": "org-give-industries",
+    "name": "Give Industries Products and Services",
+    "description": "Manufacturing products and services. 100% of profits go to effective charities guided by external charity evaluators.",
+    "offering_type": "product_family",
+    "exactness": "inferred",
+    "category": "Manufacturing / B2B",
+    "tags": [
+      "manufacturing",
+      "australia",
+      "b2b",
+      "effective-charities",
+      "malaria",
+      "global-health"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-rituals-cosmetics",
+    "slug": "rituals-cosmetics-products",
+    "org_id": "org-rituals",
+    "name": "Rituals Cosmetics and Wellness Products",
+    "description": "Cosmetics, skincare, bath and body products, and wellness products. Purchasing supports a brand pledging at least 10% of annual net profits to wellbeing of people and planet.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Beauty / Personal Care",
+    "tags": [
+      "beauty",
+      "skincare",
+      "wellness",
+      "bath",
+      "cosmetics",
+      "body-care",
+      "perfume",
+      "candles"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profitforgood-com"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-croxsons-packaging",
+    "slug": "croxsons-glass-packaging",
+    "org_id": "org-croxsons",
+    "name": "Croxsons Glass Bottles and Packaging",
+    "description": "Glass bottles and packaging solutions for food and beverage industries. Purchasing supports a company pledging at least 10% of net profits to effective charities.",
+    "offering_type": "product_family",
+    "exactness": "inferred",
+    "category": "Packaging / B2B",
+    "tags": [
+      "glass",
+      "bottles",
+      "packaging",
+      "b2b"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-ecosia-search",
+    "slug": "ecosia-search-engine",
+    "org_id": "org-ecosia",
+    "name": "Ecosia Search Engine",
+    "description": "Free search engine powered by ad revenue. At least 80% of profits go to tree planting projects globally.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Technology / Software",
+    "tags": [
+      "search",
+      "search-engine",
+      "browser",
+      "free",
+      "trees",
+      "tree-planting",
+      "environment",
+      "climate"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-impact-books-publishing",
+    "slug": "impact-books-titles",
+    "org_id": "org-impact-books",
+    "name": "Impact Books Publications",
+    "description": "Books published by Impact Books Ltd. Purchasing supports a company donating at least 10% of profits to effective charities.",
+    "offering_type": "product_family",
+    "exactness": "inferred",
+    "category": "Books / Publishing",
+    "tags": [
+      "books",
+      "nonfiction",
+      "publishing"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-languagecourse-platform",
+    "slug": "languagecourse-booking",
+    "org_id": "org-languagecourse",
+    "name": "LanguageCourse Online Language School Search",
+    "description": "Online platform for finding and booking language courses worldwide. Purchasing supports a company pledging at least 10% of profits to effective charities.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Education / Language Learning",
+    "tags": [
+      "language",
+      "courses",
+      "travel",
+      "education"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-toast-ale-beer",
+    "slug": "toast-ale-beer",
+    "org_id": "org-toast-ale",
+    "name": "Toast Ale Craft Beer",
+    "description": "Range of craft beers brewed with surplus fresh bread from bakeries and sandwich makers. 100% of profits go to charities fighting food waste and climate change.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "beer",
+      "craft-beer",
+      "brewery",
+      "bread",
+      "upcycled",
+      "food-waste",
+      "climate",
+      "environment",
+      "ale"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-greyston-bakery-products",
+    "slug": "greyston-bakery-products",
+    "org_id": "org-greyston-bakery",
+    "name": "Greyston Bakery Products",
+    "description": "Baked goods including brownies, cookies, and other items made by open-hire employees. All profits support the Greyston Foundation's community programs in Yonkers, NY.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "bakery",
+      "brownies",
+      "cookies",
+      "baked-goods",
+      "bread",
+      "social-enterprise",
+      "open-hiring",
+      "community"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-studio-1x-apparel",
+    "slug": "studio-1x-apparel",
+    "org_id": "org-studio-1x",
+    "name": "Studio-1X Streetwear",
+    "description": "Sustainable streetwear apparel. Purchasing supports a GWWC founding Company Pledge member donating at least 10% of profits to effective charities.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Apparel",
+    "tags": [
+      "streetwear",
+      "clothing",
+      "sustainable",
+      "fashion"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-gwwc-company-pledge"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-innocent-drinks-products",
+    "slug": "innocent-drinks-smoothies",
+    "org_id": "org-innocent-drinks",
+    "name": "Innocent Smoothies & Juices",
+    "description": "Range of smoothies, juices, and coconut water. 10% of annual profits go to the Innocent Foundation, supporting sustainable farming and food security.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Drink",
+    "tags": [
+      "smoothies",
+      "juice",
+      "drinks",
+      "healthy",
+      "environment",
+      "fruit",
+      "coconut-water",
+      "beverage"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-belu-water-products",
+    "slug": "belu-water-products",
+    "org_id": "org-belu-water",
+    "name": "Belu Water",
+    "description": "Bottled mineral water and water filtration systems sold to restaurants, cafes, and hospitality venues. 100% of net profits go to WaterAid.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "water",
+      "bottled-water",
+      "restaurant",
+      "hospitality",
+      "clean-water"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-thankyou-products",
+    "slug": "thankyou-personal-care",
+    "org_id": "org-thankyou-group",
+    "name": "Thankyou Personal Care & Household Products",
+    "description": "Hand wash, shampoo, body wash, deodorant, baby care, and cleaning products sold in Australian and NZ supermarkets. All profit supports the Thankyou Charitable Trust's programs to end extreme poverty.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Personal Care",
+    "tags": [
+      "personal-care",
+      "soap",
+      "shampoo",
+      "body-wash",
+      "cleaning",
+      "household",
+      "baby"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-profit-for-good"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-two-blind-brothers-apparel",
+    "slug": "two-blind-brothers-apparel",
+    "org_id": "org-two-blind-brothers",
+    "name": "Two Blind Brothers Apparel & Gifts",
+    "description": "Luxury soft apparel \u2014 shirts, hoodies, socks \u2014 and gift boxes. 100% of profits go to Foundation Fighting Blindness and community support for blind and visually impaired individuals.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Apparel",
+    "tags": [
+      "clothing",
+      "shirts",
+      "hoodies",
+      "socks",
+      "gifts",
+      "soft-fabric",
+      "disability"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-brewgooder-beer",
+    "slug": "brewgooder-clean-water-lager",
+    "org_id": "org-brewgooder",
+    "name": "Brewgooder Clean Water Lager",
+    "description": "Scottish craft lager sold in UK supermarkets and bars. 100% of profits go to clean water and sanitation projects in Malawi via partner organizations.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "beer",
+      "lager",
+      "craft-beer",
+      "brewery",
+      "water",
+      "malawi"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-elvis-kresse-accessories",
+    "slug": "elvis-kresse-accessories",
+    "org_id": "org-elvis-and-kresse",
+    "name": "Elvis & Kresse Reclaimed Accessories",
+    "description": "Bags, wallets, belts, and homeware handcrafted from decommissioned fire hoses, leather off-cuts, and other reclaimed materials. 50% of profits donated to charity.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Accessories",
+    "tags": [
+      "bags",
+      "wallets",
+      "belts",
+      "upcycled",
+      "reclaimed",
+      "fire-hose",
+      "leather",
+      "luxury"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-toms-footwear",
+    "slug": "toms-shoes-and-goods",
+    "org_id": "org-toms",
+    "name": "TOMS Shoes, Eyewear & Bags",
+    "description": "Footwear, sandals, boots, eyewear, and bags. One third of annual net profits go to grassroots organizations working on mental health, gun violence prevention, and equal access to opportunity.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Footwear / Apparel",
+    "tags": [
+      "shoes",
+      "sandals",
+      "boots",
+      "eyewear",
+      "bags",
+      "footwear",
+      "fashion"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-awesome-coffee-subscription",
+    "slug": "awesome-coffee-club-subscription",
+    "org_id": "org-awesome-coffee-club",
+    "name": "Awesome Coffee Club Subscription",
+    "description": "Monthly coffee subscription (beans or grounds) using sustainably sourced coffee from small farmers. 100% of profits fund Partners in Health's Maternal Center of Excellence in Kono District, Sierra Leone. Has raised $7.5M+ for maternal and infant health.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "coffee",
+      "subscription",
+      "beans",
+      "grounds",
+      "sustainable",
+      "maternal-health",
+      "sierra-leone"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-divine-chocolate-bars",
+    "slug": "divine-chocolate-bars",
+    "org_id": "org-divine-chocolate",
+    "name": "Divine Fairtrade Chocolate Bars",
+    "description": "Fairtrade chocolate bars in milk, dark, and white varieties. Buying Divine means the Kuapa Kokoo cooperative (80,000+ Ghanaian farmers who own 45% of the company) receives dividends and Fairtrade premiums for community development.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Drink",
+    "tags": [
+      "chocolate",
+      "fairtrade",
+      "farmer-owned",
+      "cocoa",
+      "ghana",
+      "ethical"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-one-water-bottles",
+    "slug": "one-water-bottled-water",
+    "org_id": "org-one-water",
+    "name": "One Water Bottled Water",
+    "description": "Bottled water sold in UK restaurants, cafes, and retailers. Profits flow to The One Foundation, funding water, sanitation, and hygiene projects across Sub-Saharan Africa.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "water",
+      "bottled-water",
+      "restaurant",
+      "hospitality",
+      "africa",
+      "sanitation"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-liberation-nuts",
+    "slug": "liberation-fairtrade-nuts",
+    "org_id": "org-liberation-foods",
+    "name": "Liberation Fairtrade Nuts & Nut Butters",
+    "description": "Fairtrade cashews, almonds, peanuts, mixed nuts, and nut butters sold in UK supermarkets. Purchasing supports a company majority-owned by the smallholder farmers who grow the nuts.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Grocery",
+    "tags": [
+      "nuts",
+      "cashews",
+      "almonds",
+      "peanuts",
+      "nut-butter",
+      "fairtrade",
+      "snacks"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-keats-tea-coffee",
+    "slug": "keats-and-co-tea-coffee",
+    "org_id": "org-keats-and-co",
+    "name": "Keats & Co. Loose-Leaf Tea & Coffee",
+    "description": "Loose-leaf tea and specialty coffee beans. 100% of profits go to Partners in Health for long-term tuberculosis treatment in Lesotho.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Food & Drink",
+    "tags": [
+      "tea",
+      "coffee",
+      "loose-leaf",
+      "good-store",
+      "tuberculosis",
+      "lesotho"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-good-store"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-tonys-chocolate",
+    "slug": "tonys-chocolonely-bars",
+    "org_id": "org-tonys-chocolonely",
+    "name": "Tony's Chocolonely Chocolate Bars",
+    "description": "Chocolate bars in milk, dark, and white varieties. Tony's pays farmers living-income premiums, donates 1% of annual revenue to the Chocolonely Foundation, and deliberately keeps near-zero profit to keep value upstream with cocoa farmers.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Food & Drink",
+    "tags": [
+      "chocolate",
+      "slave-free",
+      "fairtrade",
+      "cocoa",
+      "ghana",
+      "west-africa"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-better-world-books",
+    "slug": "better-world-books-retail",
+    "org_id": "org-better-world-books",
+    "name": "Better World Books Used & New Books",
+    "description": "Used and new books across all genres. 5% of net revenues donated to literacy charities (buyer's choice). Books sourced partly from library donations, with 15% of net price returned to contributing libraries.",
+    "offering_type": "product_family",
+    "exactness": "collection",
+    "category": "Books & Education",
+    "tags": [
+      "books",
+      "used-books",
+      "literacy",
+      "libraries",
+      "b-corp"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-bombas-apparel",
+    "slug": "bombas-socks-and-apparel",
+    "org_id": "org-bombas",
+    "name": "Bombas Socks, Underwear & T-Shirts",
+    "description": "Premium comfort socks, underwear, and t-shirts. For every item purchased, an equivalent item is donated to shelters and community organizations serving people experiencing homelessness.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Apparel",
+    "tags": [
+      "socks",
+      "underwear",
+      "t-shirts",
+      "one-for-one",
+      "homelessness",
+      "comfort"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-warby-parker-eyewear",
+    "slug": "warby-parker-glasses",
+    "org_id": "org-warby-parker",
+    "name": "Warby Parker Glasses & Sunglasses",
+    "description": "Prescription eyeglasses and sunglasses sold direct-to-consumer. Every pair purchased triggers the donation of a pair to someone in need in a developing country through VisionSpring-trained vision entrepreneurs.",
+    "offering_type": "product_family",
+    "exactness": "exact",
+    "category": "Eyewear",
+    "tags": [
+      "glasses",
+      "eyewear",
+      "sunglasses",
+      "prescription",
+      "one-for-one",
+      "vision"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-goalswon-coaching",
+    "slug": "goalswon-coaching-app",
+    "org_id": "org-goalswon",
+    "name": "GoalsWon Accountability Coaching",
+    "description": "Accountability coaching app matching users with trained coaches for weekly check-ins. For every paid subscription, one free subscription is provided to a person doing high-impact work at an EA-aligned organization.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Coaching / Productivity",
+    "tags": [
+      "coaching",
+      "accountability",
+      "productivity",
+      "ea-aligned",
+      "app",
+      "subscription"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-ea-services",
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-altruistic-agency-tech",
+    "slug": "altruistic-agency-web-dev",
+    "org_id": "org-altruistic-agency",
+    "name": "Altruistic Agency Web & Tech Services",
+    "description": "Web development, software engineering, IT security, and tech support services. Provided free to high-impact nonprofits and charities. Work spans website builds, custom applications, and security auditing.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Tech / Software",
+    "tags": [
+      "web-development",
+      "software",
+      "it-security",
+      "tech-support",
+      "pro-bono",
+      "nonprofits"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-scarlet-spark-consulting",
+    "slug": "scarlet-spark-strategy-consulting",
+    "org_id": "org-scarlet-spark",
+    "name": "Scarlet Spark Strategy & Org Health Consulting",
+    "description": "Free strategy, organizational health, people operations, and leadership consulting for animal advocacy charities. Engagements cover strategic planning, team health, and leadership development.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Consulting",
+    "tags": [
+      "strategy",
+      "consulting",
+      "organizational-health",
+      "animal-advocacy",
+      "pro-bono",
+      "leadership"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-good-impressions-marketing",
+    "slug": "good-impressions-digital-marketing",
+    "org_id": "org-good-impressions",
+    "name": "Good Impressions Digital Marketing",
+    "description": "Paid advertising (Google, Meta), SEO, and web analytics services for EA-aligned nonprofits. Fees are subsidized by grants from Longview Philanthropy and Open Philanthropy so high-impact projects are not excluded by cost.",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Marketing",
+    "tags": [
+      "marketing",
+      "paid-ads",
+      "google-ads",
+      "seo",
+      "analytics",
+      "nonprofits",
+      "subsidized"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  },
+  {
+    "id": "off-beneficial-state-banking",
+    "slug": "beneficial-state-bank-accounts",
+    "org_id": "org-beneficial-state-bank",
+    "name": "Beneficial State Bank \u2014 Business & Nonprofit Banking",
+    "description": "Business checking, savings, loans, and nonprofit banking services. Majority-owned by a nonprofit foundation; zero fossil-fuel, private-prison, or weapons lending; over 90% of lending in positive-impact sectors (affordable housing, small business, health, environment).",
+    "offering_type": "service",
+    "exactness": "exact",
+    "category": "Financial Services",
+    "tags": [
+      "banking",
+      "checking",
+      "savings",
+      "loans",
+      "nonprofit-banking",
+      "cdfi",
+      "mission-driven"
+    ],
+    "active": true,
+    "source_ids": [
+      "src-official-site"
+    ],
+    "added": "2026-04-10",
+    "updated": "2026-04-10"
+  }
+]

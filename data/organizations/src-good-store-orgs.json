@@ -1,0 +1,29 @@
+[
+  {
+    "id": "org-good-store",
+    "slug": "good-store",
+    "name": "Good Store",
+    "description": "Good Store is an online shop that donates 100% of profits to charity (89 products across 4 brands). Has donated over $12 million to charity. Sells: coffee, tea, socks, underwear, soap, shampoo bars, candles, and eco household cleaning products.",
+    "website": "https://good.store",
+    "org_type": "company",
+    "country": "US",
+    "source_ids": [
+      "src-good-store"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "100pct-profits",
+      "effective-giving",
+      "subscriptions",
+      "coffee",
+      "tea",
+      "socks",
+      "soap",
+      "cleaning"
+    ],
+    "commitment_tier": "substantial",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

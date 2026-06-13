@@ -1,0 +1,506 @@
+[
+  {
+    "id": "org-lovable",
+    "slug": "lovable",
+    "name": "Lovable",
+    "description": "Lovable was founded or is led by Anton Osika (Founder of Lovable), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-wise",
+    "slug": "wise",
+    "name": "Wise",
+    "description": "Wise was founded or is led by Taavet Hinrikus (Co-Founder and Chairman of Wise), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-canva",
+    "slug": "canva",
+    "name": "Canva",
+    "description": "Canva was founded or is led by Cameron Adams (Co-founder of Canva), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-personio",
+    "slug": "personio",
+    "name": "Personio",
+    "description": "Personio was founded or is led by Hanno Renner (Co-Founder and CEO of Personio), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-n8n",
+    "slug": "n8n",
+    "name": "n8n",
+    "description": "n8n was founded or is led by Jan Oberhauser (Founder/CEO n8n), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-segment",
+    "slug": "segment",
+    "name": "Segment",
+    "description": "Segment was founded or is led by Erika Reinhardt (Investor of Segment), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-mambu",
+    "slug": "mambu",
+    "name": "Mambu",
+    "description": "Mambu was founded or is led by Sofia Nunes (Co-Founder of Mambu), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-asana",
+    "slug": "asana",
+    "name": "Asana",
+    "description": "Asana was founded or is led by Dustin Moskovitz (Co-Founder and CEO of Asana), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-twelve",
+    "slug": "twelve",
+    "name": "Twelve",
+    "description": "Twelve was founded or is led by Etosha Cave (Co-Founder and Chief Science Officer of Twelve), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-andela",
+    "slug": "andela",
+    "name": "Andela",
+    "description": "Andela was founded or is led by Christina Sass (Co-founder and Chair of Andela), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-klarna",
+    "slug": "klarna",
+    "name": "Klarna",
+    "description": "Klarna was founded or is led by Niklas Adalberth (Founder of Klarna), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-bolt",
+    "slug": "bolt",
+    "name": "Bolt",
+    "description": "Bolt was founded or is led by Markus Villig (Co-founder and CEO of Bolt), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-uipath",
+    "slug": "uipath",
+    "name": "UiPath",
+    "description": "UiPath was founded or is led by Daniel Dines (Founder and CEO of UiPath), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-unity-technologies",
+    "slug": "unity-technologies",
+    "name": "Unity Technologies",
+    "description": "Unity Technologies was founded or is led by David Helgason (Founder, Unity Technologies), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-monzo",
+    "slug": "monzo",
+    "name": "Monzo",
+    "description": "Monzo was founded or is led by TS Anil (CEO of Monzo), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-kabbage",
+    "slug": "kabbage",
+    "name": "Kabbage",
+    "description": "Kabbage was founded or is led by Kathryn Petralia (Co-Founder of Kabbage), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-hassle",
+    "slug": "hassle",
+    "name": "Hassle",
+    "description": "Hassle was founded or is led by Alex Depledge (Co-founder & CEO of Hassle), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-coalition",
+    "slug": "coalition",
+    "name": "Coalition",
+    "description": "Coalition was founded or is led by Joshua Motta (CEO and Co-Founder of Coalition), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-front",
+    "slug": "front",
+    "name": "Front",
+    "description": "Front was founded or is led by Mathilde Collin (Founder and CEO of Front), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-webflow",
+    "slug": "webflow",
+    "name": "Webflow",
+    "description": "Webflow was founded or is led by Bryant Chou (Co-founder and CTO of Webflow), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-snowflake",
+    "slug": "snowflake",
+    "name": "Snowflake",
+    "description": "Snowflake was founded or is led by Marcin Zukowski (Founder of Snowflake), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ironclad",
+    "slug": "ironclad",
+    "name": "Ironclad",
+    "description": "Ironclad was founded or is led by Cai WangWilt (Founder of Ironclad), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-living-carbon",
+    "slug": "living-carbon",
+    "name": "Living Carbon",
+    "description": "Living Carbon was founded or is led by Maddie Hall (Founder of Living Carbon), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-equip",
+    "slug": "equip",
+    "name": "Equip",
+    "description": "Equip was founded or is led by Kristina Saffran (Founder of Equip), who has publicly committed to give a significant portion of lifetime wealth to highly effective charities via the Founders Pledge.",
+    "website": null,
+    "org_type": "company",
+    "country": null,
+    "source_ids": [
+      "src-founders-pledge"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "founders-pledge",
+      "effective-giving"
+    ],
+    "commitment_tier": "moderate",
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

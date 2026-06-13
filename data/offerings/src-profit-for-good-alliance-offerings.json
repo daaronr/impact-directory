@@ -1,0 +1,210 @@
+[
+  {
+    "id": "off-rituals-cosmetics-pfg-alliance",
+    "slug": "rituals-cosmetics-pfg-alliance",
+    "name": "Rituals Cosmetics — Profit for Good Alliance",
+    "org_id": "org-rituals-cosmetics",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Netherlands-based wellness and beauty brand (1400+ stores, 33 countries). In 2024, introduced a 10% Profit Pledge: a long-term commitment to dedicate at least 10% of annual net profits to wellbeing of people and planet. Expected to amount to €300M over the next ten years.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-who-gives-a-crap-pfg-alliance",
+    "slug": "who-gives-a-crap-pfg-alliance",
+    "name": "Who Gives a Crap — Profit for Good Alliance",
+    "org_id": "org-who-gives-a-crap",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Toilet paper and paper products company (recycled/bamboo). Donates 50% of profits to charities providing toilets and clean water. $14M+ donated to date, products available in 36 countries.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-impact-makers-pfg-alliance",
+    "slug": "impact-makers-pfg-alliance",
+    "name": "Impact Makers — Profit for Good Alliance",
+    "org_id": "org-impact-makers",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "IT and management consulting company 100% owned by a nonprofit. All profits flow to charitable causes.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-newman-s-own-pfg-alliance",
+    "slug": "newman-s-own-pfg-alliance",
+    "name": "Newman's Own — Profit for Good Alliance",
+    "org_id": "org-newman-s-own",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Food and beverage company founded by Paul Newman. Has donated over $600M to charity. 100% of royalties and profits go to the Newman's Own Foundation.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-oma-s-soep-pfg-alliance",
+    "slug": "oma-s-soep-pfg-alliance",
+    "name": "Oma's Soep — Profit for Good Alliance",
+    "org_id": "org-oma-s-soep",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Dutch social enterprise selling soup; all profits donated to good causes.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-give-industries-pfg-alliance",
+    "slug": "give-industries-pfg-alliance",
+    "name": "Give Industries — Profit for Good Alliance",
+    "org_id": "org-give-industries",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Australian Profit for Good company whose commercial activities fund charitable giving.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-climax-change-pfg-alliance",
+    "slug": "climax-change-pfg-alliance",
+    "name": "Climax Change — Profit for Good Alliance",
+    "org_id": "org-climax-change",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Profit for Good company whose ownership structure directs profits to climate-related charities.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-brac-usa-pfg-alliance",
+    "slug": "brac-usa-pfg-alliance",
+    "name": "BRAC USA — Profit for Good Alliance",
+    "org_id": "org-brac-usa",
+    "offering_type": "nonprofit",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "US fundraising arm of BRAC, one of the world's largest development organisations. Raises funds for poverty alleviation programs globally.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-earthwater-pfg-alliance",
+    "slug": "earthwater-pfg-alliance",
+    "name": "EarthWater — Profit for Good Alliance",
+    "org_id": "org-earthwater",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Dutch social enterprise selling water products and directing profits to charitable water-access projects.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-secrid-pfg-alliance",
+    "slug": "secrid-pfg-alliance",
+    "name": "Secrid — Profit for Good Alliance",
+    "org_id": "org-secrid",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Dutch slim-wallet company and Profit for Good Alliance partner, directing a share of profits to effective charities.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-humanitix-pfg-alliance",
+    "slug": "humanitix-pfg-alliance",
+    "name": "Humanitix — Profit for Good Alliance",
+    "org_id": "org-humanitix",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Event ticketing platform (Eventbrite alternative) that dedicates 100% of booking-fee profits to education charities supporting disadvantaged children. £8.5M+ donated to charity.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-albion-east-pfg-alliance",
+    "slug": "albion-east-pfg-alliance",
+    "name": "Albion East — Profit for Good Alliance",
+    "org_id": "org-albion-east",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "International consultancy serving philanthropic foundations and high-impact charities. Has taken the GWWC Companies Pledge to donate at least 10% of profits to highly effective charities (e.g. Against Malaria Foundation).",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-postcode-loterij-pfg-alliance",
+    "slug": "postcode-loterij-pfg-alliance",
+    "name": "Postcode Loterij — Profit for Good Alliance",
+    "org_id": "org-postcode-loterij",
+    "offering_type": "company",
+    "exactness": "inferred",
+    "category": "Profit for Good company",
+    "description": "Dutch National Postcode Lottery. ~50% of ticket proceeds go directly to charitable causes. One of the largest private funders of NGOs in the Netherlands; distributes hundreds of millions of euros to charities annually.",
+    "tags": [
+      "profit-for-good",
+      "pfg-alliance"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

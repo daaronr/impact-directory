@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "org-adam-steinberg",
+    "slug": "adam-steinberg",
+    "name": "Adam Steinberg",
+    "description": "Editing, writing, proofing, and communication consultation. Any asset or channel. Outreach, PR, marketing, educational, and other content development.",
+    "website": "https://www.lyricist.net/adamedit",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "project-management",
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-adam-tury-leadership-coaching",
+    "slug": "adam-tury-leadership-coaching",
+    "name": "Adam Tury Leadership Coaching",
+    "description": "I coach EA managers to help them build leadership and people-management skills, effectively grow their teams and reach peak performance.",
+    "website": "https://www.adamtury.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "leadership-coaching",
+      "professional-development-training",
+      "management-consulting",
+      "management-coaching",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-all-in-awe",
+    "slug": "all-in-awe",
+    "name": "All in Awe",
+    "description": "All in Awe connects creative professionals with charities. We believe good communication and design are essential to effecting change globally.",
+    "website": "https://all-in-awe.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "web-design",
+      "photography",
+      "graphic-design",
+      "branding",
+      "interior-design",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-altruistic-agency",
+    "slug": "altruistic-agency",
+    "name": "Altruistic Agency",
+    "description": "Tech expertise for effective altruists: web, software, hardware, security, SEO, tech recommendations, audits, troubleshooting, tech hiring etc.",
+    "website": "https://altruistic.agency",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "software-engineering",
+      "tech-support-and-strategy",
+      "web-development",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-amalgamated-investment-services-michael-hammer",
+    "slug": "amalgamated-investment-services-michael-hammer",
+    "name": "Amalgamated Investment Services - Michael Hammer",
+    "description": "I am a Financial Advisor at Osaic Institutions working with individuals and nonprofit organizations. I help nonprofits manage reserve funds and build investment portfolios for long-term growth and assist with accepting stock donations as part of their fundraising strategy.",
+    "website": "https://www.amalgamatedbank.com/form/ais-contact-form-michael-hammer",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "stock-donation",
+      "investment-advice",
+      "portfolio-and-cash-management-services",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-amber-dawn-ace",
+    "slug": "amber-dawn-ace",
+    "name": "Amber Dawn Ace",
+    "description": "I offer content writing (e.g. blogs, research) where you explain your ideas over a call and I'll write them up, as well as copyediting, proofreading and writing coaching.",
+    "website": "https://amber-dawn-ace.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-animal-advocacy-careers",
+    "slug": "animal-advocacy-careers",
+    "name": "Animal Advocacy Careers",
+    "description": "We support EAA organisations with their hiring process’ and research into talent bottlenecks in the EAA space so we can direct more talent.",
+    "website": "https://www.animaladvocacycareers.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "hr-consulting",
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-artwhich",
+    "slug": "artwhich",
+    "name": "Artwhich",
+    "description": "Artwhich exists to empower (aspiring) leaders to reach their potential and build a better world.",
+    "website": "https://artwhich.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "professional-development-training",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-berger-hr-solutions",
+    "slug": "berger-hr-solutions",
+    "name": "Berger HR Solutions",
+    "description": "We provide outsourced Human Resources services to small to mid-sized businesses.",
+    "website": "https://www.bergerhrsolutions.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "hr-consulting",
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-blanka-bondor",
+    "slug": "blanka-bondor",
+    "name": "Blanka Bondor",
+    "description": "Community & CX strategist helping mission-driven teams build inclusive & engaged communities, design human-centric experiences, and scale impact.",
+    "website": "https://blankabondor.com/",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "community-strategy",
+      "management-consulting",
+      "project-management",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-cfactual",
+    "slug": "cfactual",
+    "name": "cFactual",
+    "description": "cFactual staff have a background in strategy consulting, founding an NGO, doing research and community building among other things. Clients include CEA and GovAI.",
+    "website": "https://www.cfactual.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "management-consulting",
+      "productivity",
+      "research",
+      "kpis",
+      "administrative-assistance",
+      "impact-evaluation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-coaching-with-paul",
+    "slug": "coaching-with-paul",
+    "name": "Coaching with Paul",
+    "description": "As a senior coach (+7 years), Paul removes barriers to optimal productivity, well-being, and non-technical skills (e.g., leadership).",
+    "website": "https://paul-rohde.com/coach",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "product-development-management",
+      "process-and-workflow",
+      "professional-development-training",
+      "productivity",
+      "project-management",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-confident-philanthropy",
+    "slug": "confident-philanthropy",
+    "name": "Confident Philanthropy",
+    "description": "Providing strategy + support for nonprofits seeking to increase/diversify income and strengthen relationships. Let’s raise the bar for fundraising.",
+    "website": "https://confidentphilanthropy.co.uk",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "impact-evaluation",
+      "fundraising-income-diversification",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-daniel-wernstedt",
+    "slug": "daniel-wernstedt",
+    "name": "Daniel Wernstedt",
+    "description": "Helping management and operations to increase workflow and time to impact through operations, especially tech heavy organisations who needs help with agile ways of working.",
+    "website": "https://www.linkedin.com/in/daniel-wernstedt-a5a27a23",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "process-and-workflow",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-dave-cortright-coaching",
+    "slug": "dave-cortright-coaching",
+    "name": "Dave Cortright Coaching",
+    "description": "Professional Coach with a background in Silicon Valley tech design, management, and IT who is passionate about helping others. By guiding others to find their true calling, I amplify my impact on improving the world.",
+    "website": "https://davecortright.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "professional-development-training",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-ea-good-governance-project",
+    "slug": "ea-good-governance-project",
+    "name": "EA Good Governance Project",
+    "description": "We help EA organizations create strong boards by finding qualified and diverse professionals.",
+    "website": "https://www.eagoodgovernance.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "hr-consulting",
+      "organizational-strategy",
+      "governance",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-freddy-zwanzger-consulting",
+    "slug": "freddy-zwanzger-consulting",
+    "name": "Freddy Zwanzger Consulting",
+    "description": "Practical knowledge transfer based on experience - mentoring (e.g. strategy+scaling), consulting (e.g. IT+processes), workshops (e.g. project mgmt)",
+    "website": "https://www.linkedin.com/in/zwanzger/",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "product-development-management",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "kpis",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-future-matters",
+    "slug": "future-matters",
+    "name": "Future Matters",
+    "description": "Evidence-based policy, political and social movement strategy consulting. We help you find the highest-impact policy goals & strategy to achieve them.",
+    "website": "https://futuremattersproject.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "professional-development-training",
+      "management-consulting",
+      "project-management",
+      "communications-consulting",
+      "research",
+      "project-exploration",
+      "policy-advocacy",
+      "impact-evaluation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-goalswon",
+    "slug": "goalswon",
+    "name": "GoalsWon",
+    "description": "Daily accountability with an experienced human coach, delivered via a streamlined app. For all aspects of life – work, wellbeing and more.",
+    "website": "https://www.goalswon.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "professional-development-training",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-good-growth",
+    "slug": "good-growth",
+    "name": "Good Growth",
+    "description": "We help animal advocacy orgs, funders and alt protein companies conduct research for strategic market entry and gain insights to Asian consumers.",
+    "website": "https://www.goodgrowth.io",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "research",
+      "professional-development-training",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-good-impressions",
+    "slug": "good-impressions",
+    "name": "Good Impressions",
+    "description": "We help scale effective nonprofits and foundations using paid ads, SEO, and web analytics. Consider reaching out if you'd like to drive engagement with your content, services, courses, contests, programs, fellowships, or events.",
+    "website": "https://www.goodimpressionsmedia.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "marketing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-high-impact-professionals",
+    "slug": "high-impact-professionals",
+    "name": "High Impact Professionals",
+    "description": "We enable working professionals to maximize their positive impact by supporting them in donating their time, skills, and resources effectively.",
+    "website": "https://www.highimpactprofessionals.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "hiring",
+      "professional-development-training",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-impact-ops",
+    "slug": "impact-ops",
+    "name": "Impact Ops",
+    "description": "We offer a suite of operations services to projects looking to do good in the world — including non-profit consultancy, finance, HR, and more.",
+    "website": "https://impact-ops.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "productivity",
+      "project-management",
+      "hiring",
+      "business-operations",
+      "hr-consulting",
+      "administrative-assistance",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-impact-shield",
+    "slug": "impact-shield",
+    "name": "Impact Shield",
+    "description": "Impact Shield helps high-impact organizations strengthen their digital defenses through systems auditing, staff training, and red-team testing.",
+    "website": "impact-shield.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "software-engineering",
+      "it-security",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-joyful-impact",
+    "slug": "joyful-impact",
+    "name": "Joyful Impact",
+    "description": "ICF-certified coaching for purpose-driven leaders - strategic thinking, communication, joy & wellbeing, productivity systems, aligning work with values",
+    "website": "https://joyful-impact.org/",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "project-exploration",
+      "professional-development-training",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-katarina-polonska-coaching",
+    "slug": "katarina-polonska-coaching",
+    "name": "Katarina Polonska Coaching",
+    "description": "I help high-achievers find more connection, direction and balance in their lives. I'm an ICF accredited coach, consultant & mentor.",
+    "website": "https://katarinapolonska.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "business-operations",
+      "hr-consulting",
+      "marketing-and-lead-generation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-know-your-elephants",
+    "slug": "know-your-elephants",
+    "name": "Know Your Elephants",
+    "description": "Guiding orgs through transformative journeys, delving deep into organizational challenges, crafting tailored solutions for lasting change.",
+    "website": "https://www.knowyourelephants.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "hiring",
+      "kpis",
+      "business-operations",
+      "hr-consulting",
+      "organizational-transformation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-lee-mcclenon",
+    "slug": "lee-mcclenon",
+    "name": "Lee McClenon",
+    "description": "Supporting unconventional leaders, work, well-being, and making bold moves. Lee specializes in small organizations and freelancers.",
+    "website": "https://www.leemcc.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "hiring",
+      "professional-development-training",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-listrom-di-lullo",
+    "slug": "listrom-di-lullo",
+    "name": "Listrom Di Lullo",
+    "description": "Full service corporate law firm.",
+    "website": "https://listromdilullo.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "management-consulting",
+      "governance-and-legal-consulting",
+      "productivity",
+      "ip-consulting",
+      "real-estate-transactions-and-leasing",
+      "dispute-resolution",
+      "business-operations",
+      "hr-consulting",
+      "administrative-assistance",
+      "venture-capitalism",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-lynette-bye-coaching",
+    "slug": "lynette-bye-coaching",
+    "name": "Lynette Bye Coaching",
+    "description": "I coach professionals who are trying to solve the world’s most pressing problems to help you solve the biggest bottlenecks holding you back.",
+    "website": "https://lynettebye.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-marta-krzeminska",
+    "slug": "marta-krzeminska",
+    "name": "Marta Krzeminska",
+    "description": "I’ll solve the problems of your early/growth stage org, reducing the chaos with 80/20 approach & automation-first thinking.",
+    "website": "https://www.linkedin.com/in/krzeminskamarta/",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "process-and-workflow",
+      "product-development-management",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "kpis",
+      "business-operations",
+      "marketing-and-lead-generation",
+      "data-science-visualization",
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-martin-milbradt-consulting",
+    "slug": "martin-milbradt-consulting",
+    "name": "Martin Milbradt Consulting",
+    "description": "I specialize in automation and custom software development, offering end-to-end solutions from initial concept to final deployment.",
+    "website": "https://martinmilbradt.de",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "software-engineering",
+      "tech-support-and-strategy",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-martina-pepiciello",
+    "slug": "martina-pepiciello",
+    "name": "Martina Pepiciello",
+    "description": "I provide graphic design, illustration and communications services. I specialize in communicating complex concepts in a clear and engaging way.",
+    "website": "https://www.martinapepiciello.com/",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "web-design",
+      "illustration",
+      "educational-content-creation",
+      "graphic-design",
+      "branding",
+      "data-science-visualization",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-neumann-analytics",
+    "slug": "neumann-analytics",
+    "name": "Neumann Analytics",
+    "description": "As a freelance data analyst, I offer services in ETL pipelines, data quality assurance, BI solutions, ML models, reporting, web analytics, and PM.",
+    "website": "https://linkedin.com/in/jknowak",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "tech-support-and-strategy",
+      "data-science-visualization",
+      "kpis",
+      "data-warehousing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-nonlinear",
+    "slug": "nonlinear",
+    "name": "Nonlinear",
+    "description": "Coaching for AI safety entrepreneurs. Career advice for people considering starting an AI safety org.",
+    "website": "https://www.nonlinear.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "product-development-management",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "hr-consulting",
+      "project-exploration",
+      "coaching-and-career-advice",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-offit-kurman",
+    "slug": "offit-kurman",
+    "name": "Offit Kurman",
+    "description": "We are a one stop shop for legal services, and I will connect you and your clients to the right attorney at our firm.",
+    "website": "https://offitkurman.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "legal",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-pantask",
+    "slug": "pantask",
+    "name": "Pantask",
+    "description": "We offer lead generation services, mostly for people in the Effective Altruism and Rationalist community.",
+    "website": "https://pantask.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "marketing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-paragon-data-solutions",
+    "slug": "paragon-data-solutions",
+    "name": "Paragon Data Solutions",
+    "description": "Boost your team with skilled virtual assistants for back office, data entry, admin tasks, and more. Delegate minutia and focus on business growth!",
+    "website": "https://www.paragondatasolutions.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "email-sourcing",
+      "data-entry",
+      "invoicing-and-payments",
+      "personal-tasks",
+      "back-office",
+      "online-research",
+      "administrative-assistance",
+      "marketing-and-lead-generation",
+      "administrative-and-repetitive-jobs",
+      "email-support",
+      "research",
+      "data-enrichment",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-pineapple-operations",
+    "slug": "pineapple-operations",
+    "name": "Pineapple Operations",
+    "description": "Public database of people who are seeking operations or Personal Assistant/Executive Assistant work in EA.",
+    "website": "https://pineappleoperations.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-presence-tree-leadership",
+    "slug": "presence-tree-leadership",
+    "name": "Presence Tree Leadership",
+    "description": "I help introspective, values-driven leaders make excellent decisions in complex times. Offering purposeful alignment on your team and within yourself.",
+    "website": "www.presencetree.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "professional-development-training",
+      "leadership-coaching-and-team-facilitation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-sarachas",
+    "slug": "sarachas",
+    "name": "SARACHAS",
+    "description": "12 years of experience as Project Manager, PMO Manager, and OKR Coach.",
+    "website": "https://sarachas.com/",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "product-development-management",
+      "professional-development-training",
+      "management-consulting",
+      "project-management",
+      "kpis",
+      "business-operations",
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-scarlet-spark",
+    "slug": "scarlet-spark",
+    "name": "Scarlet Spark",
+    "description": "Free strategy, org health, and leadership consulting for animal charities.",
+    "website": "https://www.scarletspark.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "people-operations",
+      "management-consulting",
+      "leadership-development",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-seads-data-science-for-effective-good",
+    "slug": "seads-data-science-for-effective-good",
+    "name": "SEADS Data Science for Effective Good",
+    "description": "SEADS is a Data Science consultancy focused on supporting highly-effective charities. Our services cover a broad range from executing concrete projects to using data for informing strategical decisions or optimizing data pipelines in your organization.",
+    "website": "https://www.seads-ai.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "data-warehousing",
+      "business-operations",
+      "software-engineering",
+      "research",
+      "data-science-visualization",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-sharang-phadke",
+    "slug": "sharang-phadke",
+    "name": "Sharang Phadke",
+    "description": "Sharang is an experienced technical advisor who has worked with multiple organizations on strategy, product design, and data science projects.",
+    "website": "https://sharangphadke.notion.site/Global-development-technology-strategy-consulting-7ade18e1ec2340e09b812d748bb0ac29",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "data-science-visualization",
+      "tech-support-and-strategy",
+      "product-management",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-speak",
+    "slug": "speak",
+    "name": "SpEAk",
+    "description": "SpEAk helps orgs communicate their impact, ideas, and goals to audience, clients or funders, without stage fright or loss of confidence or meaning.",
+    "website": "https://communicate-impact.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "professional-development-training",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-t-list",
+    "slug": "t-list",
+    "name": "Tälist",
+    "description": "Tälist helps organizations to find, retain & develop talent with services & consultation on hiring-related topics, particularly employer branding.",
+    "website": "https://talist.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "branding",
+      "professional-development-training",
+      "hiring",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-tee-barnett-coaching",
+    "slug": "tee-barnett-coaching",
+    "name": "Tee Barnett Coaching",
+    "description": "A ‘personal strategist’ helps guide the discovery, navigation and refinement of perceptual constructs that affect your life.",
+    "website": "https://www.teebarnett.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "productivity",
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-the-canoe-collective",
+    "slug": "the-canoe-collective",
+    "name": "The CANOE Collective",
+    "description": "Our team provides part-time COO services, as well as flexible back-office support in areas such as HR, IT, and financial management.",
+    "website": "https://www.canoecollective.us",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "tech-support-and-strategy",
+      "project-management",
+      "hiring",
+      "business-operations",
+      "hr-consulting",
+      "administrative-assistance",
+      "bookkeeping",
+      "financial-management-and-bookkeeping",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-the-health-optimiser",
+    "slug": "the-health-optimiser",
+    "name": "The Health Optimiser",
+    "description": "1-1 online coaching sessions, resources and accountability to work on improving health habits that effect ones productivity and well being.",
+    "website": "https://www.thehealthoptimiser.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "health-and-wellbeing-coaching-and-assistance",
+      "administrative-assistance",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-the-mission-motor",
+    "slug": "the-mission-motor",
+    "name": "The Mission Motor",
+    "description": "Collaborate with animal and vegan advocacy organizations to develop practical ways to track progress, understand impact, and continuously improve.",
+    "website": "https://www.themissionmotor.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "monitoring-evaluation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-upgradable",
+    "slug": "upgradable",
+    "name": "Upgradable",
+    "description": "We help people create a life plan to improve themselves and the world and then execute it with a bespoke team of coaches, assistants, and specialists.",
+    "website": "https://www.upgradable.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "software-engineering",
+      "marketing-and-lead-generation",
+      "web-design",
+      "process-and-workflow",
+      "product-development-management",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "kpis",
+      "venture-capitalism",
+      "organizational-strategy",
+      "hiring",
+      "business-operations",
+      "hr-consulting",
+      "research",
+      "impact-evaluation",
+      "writing-editing",
+      "professional-development-training",
+      "administrative-assistance",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-user-friendly",
+    "slug": "user-friendly",
+    "name": "User-Friendly",
+    "description": "The EA Marketing Agency. Providing expertise to impact-driven organisations, multiplying efforts towards solving the world's biggest challenges.",
+    "website": "https://www.userfriendly.org.uk",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "marketing",
+      "web-development",
+      "graphic-design",
+      "branding",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-vida-change",
+    "slug": "vida-change",
+    "name": "Vida Change",
+    "description": "I provide coaching, mentoring and facilitation for impact-driven individuals and organisations",
+    "website": "https://www.vidachange.co.uk",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "tech-support-and-strategy",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-wegner-cpas",
+    "slug": "wegner-cpas",
+    "name": "Wegner CPAs",
+    "description": "From managing financial risk to improving performance and operational effectiveness, we provide you with information you need to achieve your goals.",
+    "website": "https://www.wegnercpas.com",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "nonprofit-advisory-services",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-wisen-tanasa",
+    "slug": "wisen-tanasa",
+    "name": "Wisen Tanasa",
+    "description": "Coaching tech leaders & software engineers productivity through evidence-based methods: Continuous Delivery, Trunk-Based Dev, TDD, & more.",
+    "website": "https://www.linkedin.com/in/wisen",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "product-development-management",
+      "process-and-workflow",
+      "professional-development-training",
+      "tech-support-and-strategy",
+      "productivity",
+      "software-engineering",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "org-workstream-nonprofit",
+    "slug": "workstream-nonprofit",
+    "name": "Workstream Nonprofit",
+    "description": "We help organizations improve their workflow and internal processes. We also provide management consulting, coaching, and training programs.",
+    "website": "https://workstreamnonprofit.org",
+    "org_type": "service_provider",
+    "country": null,
+    "source_ids": [
+      "src-ea-services"
+    ],
+    "verified": false,
+    "claimed": false,
+    "tags": [
+      "organizational-strategy",
+      "professional-development-training",
+      "management-consulting",
+      "finance",
+      "hiring",
+      "business-operations",
+      "administrative-assistance",
+      "bookkeeping",
+      "process-development",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

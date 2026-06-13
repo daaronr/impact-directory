@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "off-adam-steinberg-ease",
+    "slug": "adam-steinberg-ease",
+    "name": "Adam Steinberg — EA Services",
+    "org_id": "org-adam-steinberg",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Project Management",
+    "description": "Services offered: project management, writing / editing. Editing, writing, proofing, and communication consultation. Any asset or channel. Outreach, PR, marketing, educational, and other content development.",
+    "tags": [
+      "project-management",
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-adam-tury-leadership-coaching-ease",
+    "slug": "adam-tury-leadership-coaching-ease",
+    "name": "Adam Tury Leadership Coaching — EA Services",
+    "org_id": "org-adam-tury-leadership-coaching",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Management Consulting",
+    "description": "Services offered: management consulting, professional development / training, leadership coaching, management coaching. I coach EA managers to help them build leadership and people-management skills, effectively grow their teams and reach peak performance.",
+    "tags": [
+      "leadership-coaching",
+      "professional-development-training",
+      "management-consulting",
+      "management-coaching",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-all-in-awe-ease",
+    "slug": "all-in-awe-ease",
+    "name": "All in Awe — EA Services",
+    "org_id": "org-all-in-awe",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Interior Design",
+    "description": "Services offered: interior design, graphic design, branding, web design, photography. All in Awe connects creative professionals with charities. We believe good communication and design are essential to effecting change globally.",
+    "tags": [
+      "web-design",
+      "photography",
+      "graphic-design",
+      "branding",
+      "interior-design",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-altruistic-agency-ease",
+    "slug": "altruistic-agency-ease",
+    "name": "Altruistic Agency — EA Services",
+    "org_id": "org-altruistic-agency",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Web Development",
+    "description": "Services offered: web development, tech support and strategy, software engineering. Tech expertise for effective altruists: web, software, hardware, security, SEO, tech recommendations, audits, troubleshooting, tech hiring etc.",
+    "tags": [
+      "software-engineering",
+      "tech-support-and-strategy",
+      "web-development",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-amalgamated-investment-services-michael-hammer-ease",
+    "slug": "amalgamated-investment-services-michael-hammer-ease",
+    "name": "Amalgamated Investment Services - Michael Hammer — EA Services",
+    "org_id": "org-amalgamated-investment-services-michael-hammer",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Portfolio And Cash Management Services",
+    "description": "Services offered: portfolio and cash management services, investment advice, stock donation. I am a Financial Advisor at Osaic Institutions working with individuals and nonprofit organizations. I help nonprofits manage reserve funds and build investment portfolios for long-term growth and assist with accepting stock donations as part of their fundraising strategy.",
+    "tags": [
+      "stock-donation",
+      "investment-advice",
+      "portfolio-and-cash-management-services",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-amber-dawn-ace-ease",
+    "slug": "amber-dawn-ace-ease",
+    "name": "Amber Dawn Ace — EA Services",
+    "org_id": "org-amber-dawn-ace",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Writing / Editing",
+    "description": "Services offered: writing / editing. I offer content writing (e.g. blogs, research) where you explain your ideas over a call and I'll write them up, as well as copyediting, proofreading and writing coaching.",
+    "tags": [
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-animal-advocacy-careers-ease",
+    "slug": "animal-advocacy-careers-ease",
+    "name": "Animal Advocacy Careers — EA Services",
+    "org_id": "org-animal-advocacy-careers",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hiring",
+    "description": "Services offered: hiring, hr consulting. We support EAA organisations with their hiring process’ and research into talent bottlenecks in the EAA space so we can direct more talent.",
+    "tags": [
+      "hr-consulting",
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-artwhich-ease",
+    "slug": "artwhich-ease",
+    "name": "Artwhich — EA Services",
+    "org_id": "org-artwhich",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Professional Development / Training",
+    "description": "Services offered: professional development / training, organizational strategy. Artwhich exists to empower (aspiring) leaders to reach their potential and build a better world.",
+    "tags": [
+      "organizational-strategy",
+      "professional-development-training",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-berger-hr-solutions-ease",
+    "slug": "berger-hr-solutions-ease",
+    "name": "Berger HR Solutions — EA Services",
+    "org_id": "org-berger-hr-solutions",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hiring",
+    "description": "Services offered: hiring, hr consulting. We provide outsourced Human Resources services to small to mid-sized businesses.",
+    "tags": [
+      "hr-consulting",
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-blanka-bondor-ease",
+    "slug": "blanka-bondor-ease",
+    "name": "Blanka Bondor — EA Services",
+    "org_id": "org-blanka-bondor",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: Business Operations, Management Consulting, Organizational Strategy, Process and Workflow, Project Management, Community Strategy. Community & CX strategist helping mission-driven teams build inclusive & engaged communities, design human-centric experiences, and scale impact.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "community-strategy",
+      "management-consulting",
+      "project-management",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-cfactual-ease",
+    "slug": "cfactual-ease",
+    "name": "cFactual — EA Services",
+    "org_id": "org-cfactual",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Productivity",
+    "description": "Services offered: productivity, KPIs, research, impact evaluation, management consulting, administrative assistance. cFactual staff have a background in strategy consulting, founding an NGO, doing research and community building among other things. Clients include CEA and GovAI.",
+    "tags": [
+      "management-consulting",
+      "productivity",
+      "research",
+      "kpis",
+      "administrative-assistance",
+      "impact-evaluation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-coaching-with-paul-ease",
+    "slug": "coaching-with-paul-ease",
+    "name": "Coaching with Paul — EA Services",
+    "org_id": "org-coaching-with-paul",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Organizational Strategy",
+    "description": "Services offered: organizational strategy, process and workflow, product development / management, productivity, professional development / training, project management. As a senior coach (+7 years), Paul removes barriers to optimal productivity, well-being, and non-technical skills (e.g., leadership).",
+    "tags": [
+      "organizational-strategy",
+      "product-development-management",
+      "process-and-workflow",
+      "professional-development-training",
+      "productivity",
+      "project-management",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-confident-philanthropy-ease",
+    "slug": "confident-philanthropy-ease",
+    "name": "Confident Philanthropy — EA Services",
+    "org_id": "org-confident-philanthropy",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Impact Evaluation",
+    "description": "Services offered: impact evaluation, management consulting, organizational strategy, fundraising & income diversification. Providing strategy + support for nonprofits seeking to increase/diversify income and strengthen relationships. Let’s raise the bar for fundraising.",
+    "tags": [
+      "organizational-strategy",
+      "impact-evaluation",
+      "fundraising-income-diversification",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-daniel-wernstedt-ease",
+    "slug": "daniel-wernstedt-ease",
+    "name": "Daniel Wernstedt — EA Services",
+    "org_id": "org-daniel-wernstedt",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Process And Workflow",
+    "description": "Services offered: process and workflow, business operations. Helping management and operations to increase workflow and time to impact through operations, especially tech heavy organisations who needs help with agile ways of working.",
+    "tags": [
+      "process-and-workflow",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-dave-cortright-coaching-ease",
+    "slug": "dave-cortright-coaching-ease",
+    "name": "Dave Cortright Coaching — EA Services",
+    "org_id": "org-dave-cortright-coaching",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Professional Development / Training",
+    "description": "Services offered: professional development / training. Professional Coach with a background in Silicon Valley tech design, management, and IT who is passionate about helping others. By guiding others to find their true calling, I amplify my impact on improving the world.",
+    "tags": [
+      "professional-development-training",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ea-good-governance-project-ease",
+    "slug": "ea-good-governance-project-ease",
+    "name": "EA Good Governance Project — EA Services",
+    "org_id": "org-ea-good-governance-project",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hr Consulting",
+    "description": "Services offered: hr consulting, organizational strategy, governance. We help EA organizations create strong boards by finding qualified and diverse professionals.",
+    "tags": [
+      "hr-consulting",
+      "organizational-strategy",
+      "governance",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-freddy-zwanzger-consulting-ease",
+    "slug": "freddy-zwanzger-consulting-ease",
+    "name": "Freddy Zwanzger Consulting — EA Services",
+    "org_id": "org-freddy-zwanzger-consulting",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: Business Operations, KPIs, Management Consulting, Organizational Strategy, Process and Workflow, Product Development / Management, Productivity, Project Management. Practical knowledge transfer based on experience - mentoring (e.g. strategy+scaling), consulting (e.g. IT+processes), workshops (e.g. project mgmt)",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "product-development-management",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "kpis",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-future-matters-ease",
+    "slug": "future-matters-ease",
+    "name": "Future Matters — EA Services",
+    "org_id": "org-future-matters",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Impact Evaluation",
+    "description": "Services offered: impact evaluation, management consulting, organizational strategy, professional development / training, project exploration, project management, research, policy advocacy, communications consulting. Evidence-based policy, political and social movement strategy consulting. We help you find the highest-impact policy goals & strategy to achieve them.",
+    "tags": [
+      "organizational-strategy",
+      "professional-development-training",
+      "management-consulting",
+      "project-management",
+      "communications-consulting",
+      "research",
+      "project-exploration",
+      "policy-advocacy",
+      "impact-evaluation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-goalswon-ease",
+    "slug": "goalswon-ease",
+    "name": "GoalsWon — EA Services",
+    "org_id": "org-goalswon",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Productivity",
+    "description": "Services offered: productivity, professional development / training. Daily accountability with an experienced human coach, delivered via a streamlined app. For all aspects of life – work, wellbeing and more.",
+    "tags": [
+      "professional-development-training",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-growth-ease",
+    "slug": "good-growth-ease",
+    "name": "Good Growth — EA Services",
+    "org_id": "org-good-growth",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Management Consulting",
+    "description": "Services offered: management consulting, organizational strategy, professional development / training, research. We help animal advocacy orgs, funders and alt protein companies conduct research for strategic market entry and gain insights to Asian consumers.",
+    "tags": [
+      "organizational-strategy",
+      "research",
+      "professional-development-training",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-good-impressions-ease",
+    "slug": "good-impressions-ease",
+    "name": "Good Impressions — EA Services",
+    "org_id": "org-good-impressions",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Marketing",
+    "description": "Services offered: marketing. We help scale effective nonprofits and foundations using paid ads, SEO, and web analytics. Consider reaching out if you'd like to drive engagement with your content, services, courses, contests, programs, fellowships, or events.",
+    "tags": [
+      "marketing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-high-impact-professionals-ease",
+    "slug": "high-impact-professionals-ease",
+    "name": "High Impact Professionals — EA Services",
+    "org_id": "org-high-impact-professionals",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hiring",
+    "description": "Services offered: hiring, professional development / training. We enable working professionals to maximize their positive impact by supporting them in donating their time, skills, and resources effectively.",
+    "tags": [
+      "hiring",
+      "professional-development-training",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-impact-ops-ease",
+    "slug": "impact-ops-ease",
+    "name": "Impact Ops — EA Services",
+    "org_id": "org-impact-ops",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, business operations, hiring, hr consulting, organizational strategy, process and workflow, productivity, project management. We offer a suite of operations services to projects looking to do good in the world — including non-profit consultancy, finance, HR, and more.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "productivity",
+      "project-management",
+      "hiring",
+      "business-operations",
+      "hr-consulting",
+      "administrative-assistance",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-impact-shield-ease",
+    "slug": "impact-shield-ease",
+    "name": "Impact Shield — EA Services",
+    "org_id": "org-impact-shield",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Software Engineering",
+    "description": "Services offered: Software Engineering, IT Security. Impact Shield helps high-impact organizations strengthen their digital defenses through systems auditing, staff training, and red-team testing.",
+    "tags": [
+      "software-engineering",
+      "it-security",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-joyful-impact-ease",
+    "slug": "joyful-impact-ease",
+    "name": "Joyful Impact — EA Services",
+    "org_id": "org-joyful-impact",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Productivity",
+    "description": "Services offered: Productivity, Professional Development/Training, Project Exploration. ICF-certified coaching for purpose-driven leaders - strategic thinking, communication, joy & wellbeing, productivity systems, aligning work with values",
+    "tags": [
+      "project-exploration",
+      "professional-development-training",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-katarina-polonska-coaching-ease",
+    "slug": "katarina-polonska-coaching-ease",
+    "name": "Katarina Polonska Coaching — EA Services",
+    "org_id": "org-katarina-polonska-coaching",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: business operations, hr consulting, management consulting, marketing and lead generation, organizational strategy, process and workflow, productivity, professional development / training. I help high-achievers find more connection, direction and balance in their lives. I'm an ICF accredited coach, consultant & mentor.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "business-operations",
+      "hr-consulting",
+      "marketing-and-lead-generation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-know-your-elephants-ease",
+    "slug": "know-your-elephants-ease",
+    "name": "Know Your Elephants — EA Services",
+    "org_id": "org-know-your-elephants",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: business operations, hiring, hr consulting, kpis, management consulting, organizational strategy, process and workflow, productivity, professional development / training, project management, organizational transformation. Guiding orgs through transformative journeys, delving deep into organizational challenges, crafting tailored solutions for lasting change.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "hiring",
+      "kpis",
+      "business-operations",
+      "hr-consulting",
+      "organizational-transformation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-lee-mcclenon-ease",
+    "slug": "lee-mcclenon-ease",
+    "name": "Lee McClenon — EA Services",
+    "org_id": "org-lee-mcclenon",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hiring",
+    "description": "Services offered: hiring, organizational strategy, productivity, professional development / training. Supporting unconventional leaders, work, well-being, and making bold moves. Lee specializes in small organizations and freelancers.",
+    "tags": [
+      "organizational-strategy",
+      "hiring",
+      "professional-development-training",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-listrom-di-lullo-ease",
+    "slug": "listrom-di-lullo-ease",
+    "name": "Listrom Di Lullo — EA Services",
+    "org_id": "org-listrom-di-lullo",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, business operations, hr consulting, management consulting, organizational strategy, process and workflow, productivity, professional development / training, venture capitalism, governance and legal consulting, dispute resolution, ip consulting, real estate transactions and leasing. Full service corporate law firm.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "management-consulting",
+      "governance-and-legal-consulting",
+      "productivity",
+      "ip-consulting",
+      "real-estate-transactions-and-leasing",
+      "dispute-resolution",
+      "business-operations",
+      "hr-consulting",
+      "administrative-assistance",
+      "venture-capitalism",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-lynette-bye-coaching-ease",
+    "slug": "lynette-bye-coaching-ease",
+    "name": "Lynette Bye Coaching — EA Services",
+    "org_id": "org-lynette-bye-coaching",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Productivity",
+    "description": "Services offered: productivity. I coach professionals who are trying to solve the world’s most pressing problems to help you solve the biggest bottlenecks holding you back.",
+    "tags": [
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-marta-krzeminska-ease",
+    "slug": "marta-krzeminska-ease",
+    "name": "Marta Krzeminska — EA Services",
+    "org_id": "org-marta-krzeminska",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: business operations, data science / visualization, kpis, management consulting, marketing and lead generation, process and workflow, product development / management, productivity, project management, writing / editing. I’ll solve the problems of your early/growth stage org, reducing the chaos with 80/20 approach & automation-first thinking.",
+    "tags": [
+      "process-and-workflow",
+      "product-development-management",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "kpis",
+      "business-operations",
+      "marketing-and-lead-generation",
+      "data-science-visualization",
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-martin-milbradt-consulting-ease",
+    "slug": "martin-milbradt-consulting-ease",
+    "name": "Martin Milbradt Consulting — EA Services",
+    "org_id": "org-martin-milbradt-consulting",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Software Engineering",
+    "description": "Services offered: software engineering, tech support and strategy. I specialize in automation and custom software development, offering end-to-end solutions from initial concept to final deployment.",
+    "tags": [
+      "software-engineering",
+      "tech-support-and-strategy",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-martina-pepiciello-ease",
+    "slug": "martina-pepiciello-ease",
+    "name": "Martina Pepiciello — EA Services",
+    "org_id": "org-martina-pepiciello",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Branding",
+    "description": "Services offered: branding, data science / visualization, educational content creation, graphic design, illustration, web design. I provide graphic design, illustration and communications services. I specialize in communicating complex concepts in a clear and engaging way.",
+    "tags": [
+      "web-design",
+      "illustration",
+      "educational-content-creation",
+      "graphic-design",
+      "branding",
+      "data-science-visualization",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-neumann-analytics-ease",
+    "slug": "neumann-analytics-ease",
+    "name": "Neumann Analytics — EA Services",
+    "org_id": "org-neumann-analytics",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Data Science / Visualization",
+    "description": "Services offered: data science / visualization, data warehousing, kpis, tech support and strategy. As a freelance data analyst, I offer services in ETL pipelines, data quality assurance, BI solutions, ML models, reporting, web analytics, and PM.",
+    "tags": [
+      "tech-support-and-strategy",
+      "data-science-visualization",
+      "kpis",
+      "data-warehousing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-nonlinear-ease",
+    "slug": "nonlinear-ease",
+    "name": "Nonlinear — EA Services",
+    "org_id": "org-nonlinear",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hr Consulting",
+    "description": "Services offered: hr consulting, management consulting, organizational strategy, product development / management, productivity, professional development / training, project exploration, coaching and career advice. Coaching for AI safety entrepreneurs. Career advice for people considering starting an AI safety org.",
+    "tags": [
+      "organizational-strategy",
+      "product-development-management",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "hr-consulting",
+      "project-exploration",
+      "coaching-and-career-advice",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-offit-kurman-ease",
+    "slug": "offit-kurman-ease",
+    "name": "Offit Kurman — EA Services",
+    "org_id": "org-offit-kurman",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Legal",
+    "description": "Services offered: legal. We are a one stop shop for legal services, and I will connect you and your clients to the right attorney at our firm.",
+    "tags": [
+      "legal",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-pantask-ease",
+    "slug": "pantask-ease",
+    "name": "Pantask — EA Services",
+    "org_id": "org-pantask",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Marketing",
+    "description": "Services offered: marketing. We offer lead generation services, mostly for people in the Effective Altruism and Rationalist community.",
+    "tags": [
+      "marketing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-paragon-data-solutions-ease",
+    "slug": "paragon-data-solutions-ease",
+    "name": "Paragon Data Solutions — EA Services",
+    "org_id": "org-paragon-data-solutions",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, marketing and lead generation, research, back office, data enrichment, data entry, administrative and repetitive jobs, email sourcing, personal tasks, online research, invoicing and payments, email support. Boost your team with skilled virtual assistants for back office, data entry, admin tasks, and more. Delegate minutia and focus on business growth!",
+    "tags": [
+      "email-sourcing",
+      "data-entry",
+      "invoicing-and-payments",
+      "personal-tasks",
+      "back-office",
+      "online-research",
+      "administrative-assistance",
+      "marketing-and-lead-generation",
+      "administrative-and-repetitive-jobs",
+      "email-support",
+      "research",
+      "data-enrichment",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-pineapple-operations-ease",
+    "slug": "pineapple-operations-ease",
+    "name": "Pineapple Operations — EA Services",
+    "org_id": "org-pineapple-operations",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hiring",
+    "description": "Services offered: hiring. Public database of people who are seeking operations or Personal Assistant/Executive Assistant work in EA.",
+    "tags": [
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-presence-tree-leadership-ease",
+    "slug": "presence-tree-leadership-ease",
+    "name": "Presence Tree Leadership — EA Services",
+    "org_id": "org-presence-tree-leadership",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Professional Development / Training",
+    "description": "Services offered: Professional Development / Training, Leadership Coaching and Team Facilitation. I help introspective, values-driven leaders make excellent decisions in complex times. Offering purposeful alignment on your team and within yourself.",
+    "tags": [
+      "professional-development-training",
+      "leadership-coaching-and-team-facilitation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-sarachas-ease",
+    "slug": "sarachas-ease",
+    "name": "SARACHAS — EA Services",
+    "org_id": "org-sarachas",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: business operations, kpis, management consulting, organizational strategy, process and workflow, product development / management, professional development / training, project management, writing / editing. 12 years of experience as Project Manager, PMO Manager, and OKR Coach.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "product-development-management",
+      "professional-development-training",
+      "management-consulting",
+      "project-management",
+      "kpis",
+      "business-operations",
+      "writing-editing",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-scarlet-spark-ease",
+    "slug": "scarlet-spark-ease",
+    "name": "Scarlet Spark — EA Services",
+    "org_id": "org-scarlet-spark",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Management Consulting",
+    "description": "Services offered: Management Consulting, Organizational Strategy, People Operations, Leadership Development. Free strategy, org health, and leadership consulting for animal charities.",
+    "tags": [
+      "organizational-strategy",
+      "people-operations",
+      "management-consulting",
+      "leadership-development",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-seads-data-science-for-effective-good-ease",
+    "slug": "seads-data-science-for-effective-good-ease",
+    "name": "SEADS Data Science for Effective Good — EA Services",
+    "org_id": "org-seads-data-science-for-effective-good",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Data Science / Visualization",
+    "description": "Services offered: data science / visualization, research, business operations, organizational strategy, data warehousing, software engineering. SEADS is a Data Science consultancy focused on supporting highly-effective charities. Our services cover a broad range from executing concrete projects to using data for informing strategical decisions or optimizing data pipelines in your organization.",
+    "tags": [
+      "organizational-strategy",
+      "data-warehousing",
+      "business-operations",
+      "software-engineering",
+      "research",
+      "data-science-visualization",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-sharang-phadke-ease",
+    "slug": "sharang-phadke-ease",
+    "name": "Sharang Phadke — EA Services",
+    "org_id": "org-sharang-phadke",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Product Management",
+    "description": "Services offered: product management, tech support and strategy, data science / visualization. Sharang is an experienced technical advisor who has worked with multiple organizations on strategy, product design, and data science projects.",
+    "tags": [
+      "data-science-visualization",
+      "tech-support-and-strategy",
+      "product-management",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-speak-ease",
+    "slug": "speak-ease",
+    "name": "SpEAk — EA Services",
+    "org_id": "org-speak",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Management Consulting",
+    "description": "Services offered: management consulting, professional development / training. SpEAk helps orgs communicate their impact, ideas, and goals to audience, clients or funders, without stage fright or loss of confidence or meaning.",
+    "tags": [
+      "professional-development-training",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-t-list-ease",
+    "slug": "t-list-ease",
+    "name": "Tälist — EA Services",
+    "org_id": "org-t-list",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Branding",
+    "description": "Services offered: branding, hiring, management consulting, professional development / training. Tälist helps organizations to find, retain & develop talent with services & consultation on hiring-related topics, particularly employer branding.",
+    "tags": [
+      "branding",
+      "professional-development-training",
+      "hiring",
+      "management-consulting",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-tee-barnett-coaching-ease",
+    "slug": "tee-barnett-coaching-ease",
+    "name": "Tee Barnett Coaching — EA Services",
+    "org_id": "org-tee-barnett-coaching",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Hiring",
+    "description": "Services offered: hiring, organizational strategy, process and workflow, productivity, professional development / training. A ‘personal strategist’ helps guide the discovery, navigation and refinement of perceptual constructs that affect your life.",
+    "tags": [
+      "organizational-strategy",
+      "process-and-workflow",
+      "professional-development-training",
+      "productivity",
+      "hiring",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-the-canoe-collective-ease",
+    "slug": "the-canoe-collective-ease",
+    "name": "The CANOE Collective — EA Services",
+    "org_id": "org-the-canoe-collective",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, bookkeeping, business operations, hiring, hr consulting, project management, tech support and strategy, financial management and bookkeeping. Our team provides part-time COO services, as well as flexible back-office support in areas such as HR, IT, and financial management.",
+    "tags": [
+      "tech-support-and-strategy",
+      "project-management",
+      "hiring",
+      "business-operations",
+      "hr-consulting",
+      "administrative-assistance",
+      "bookkeeping",
+      "financial-management-and-bookkeeping",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-the-health-optimiser-ease",
+    "slug": "the-health-optimiser-ease",
+    "name": "The Health Optimiser — EA Services",
+    "org_id": "org-the-health-optimiser",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, productivity, health and wellbeing coaching and assistance. 1-1 online coaching sessions, resources and accountability to work on improving health habits that effect ones productivity and well being.",
+    "tags": [
+      "health-and-wellbeing-coaching-and-assistance",
+      "administrative-assistance",
+      "productivity",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-the-mission-motor-ease",
+    "slug": "the-mission-motor-ease",
+    "name": "The Mission Motor — EA Services",
+    "org_id": "org-the-mission-motor",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Monitoring & Evaluation",
+    "description": "Services offered: Monitoring & Evaluation. Collaborate with animal and vegan advocacy organizations to develop practical ways to track progress, understand impact, and continuously improve.",
+    "tags": [
+      "monitoring-evaluation",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-upgradable-ease",
+    "slug": "upgradable-ease",
+    "name": "Upgradable — EA Services",
+    "org_id": "org-upgradable",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, business operations, hiring, hr consulting, impact evaluation, kpis, management consulting, marketing and lead generation, organizational strategy, process and workflow, product development / management, productivity, professional development / training, project management, research, software engineering, venture capitalism, web design, writing / editing. We help people create a life plan to improve themselves and the world and then execute it with a bespoke team of coaches, assistants, and specialists.",
+    "tags": [
+      "software-engineering",
+      "marketing-and-lead-generation",
+      "web-design",
+      "process-and-workflow",
+      "product-development-management",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "kpis",
+      "venture-capitalism",
+      "organizational-strategy",
+      "hiring",
+      "business-operations",
+      "hr-consulting",
+      "research",
+      "impact-evaluation",
+      "writing-editing",
+      "professional-development-training",
+      "administrative-assistance",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-user-friendly-ease",
+    "slug": "user-friendly-ease",
+    "name": "User-Friendly — EA Services",
+    "org_id": "org-user-friendly",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Marketing",
+    "description": "Services offered: marketing, graphic design, branding, web development, organizational strategy. The EA Marketing Agency. Providing expertise to impact-driven organisations, multiplying efforts towards solving the world's biggest challenges.",
+    "tags": [
+      "organizational-strategy",
+      "marketing",
+      "web-development",
+      "graphic-design",
+      "branding",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-vida-change-ease",
+    "slug": "vida-change-ease",
+    "name": "Vida Change — EA Services",
+    "org_id": "org-vida-change",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Business Operations",
+    "description": "Services offered: business operations, management consulting, productivity, professional development / training, project management, tech support and strategy. I provide coaching, mentoring and facilitation for impact-driven individuals and organisations",
+    "tags": [
+      "tech-support-and-strategy",
+      "professional-development-training",
+      "management-consulting",
+      "productivity",
+      "project-management",
+      "business-operations",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-wegner-cpas-ease",
+    "slug": "wegner-cpas-ease",
+    "name": "Wegner CPAs — EA Services",
+    "org_id": "org-wegner-cpas",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Nonprofit Advisory Services",
+    "description": "Services offered: nonprofit advisory services. From managing financial risk to improving performance and operational effectiveness, we provide you with information you need to achieve your goals.",
+    "tags": [
+      "nonprofit-advisory-services",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-wisen-tanasa-ease",
+    "slug": "wisen-tanasa-ease",
+    "name": "Wisen Tanasa — EA Services",
+    "org_id": "org-wisen-tanasa",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Process And Workflow",
+    "description": "Services offered: process and workflow, product development / management, productivity, professional development / training, software engineering, tech support and strategy. Coaching tech leaders & software engineers productivity through evidence-based methods: Continuous Delivery, Trunk-Based Dev, TDD, & more.",
+    "tags": [
+      "product-development-management",
+      "process-and-workflow",
+      "professional-development-training",
+      "tech-support-and-strategy",
+      "productivity",
+      "software-engineering",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-workstream-nonprofit-ease",
+    "slug": "workstream-nonprofit-ease",
+    "name": "Workstream Nonprofit — EA Services",
+    "org_id": "org-workstream-nonprofit",
+    "offering_type": "service",
+    "exactness": "collection",
+    "category": "Administrative Assistance",
+    "description": "Services offered: administrative assistance, bookkeeping, business operations, finance, hiring, management consulting, organizational strategy, process development, professional development / training. We help organizations improve their workflow and internal processes. We also provide management consulting, coaching, and training programs.",
+    "tags": [
+      "organizational-strategy",
+      "professional-development-training",
+      "management-consulting",
+      "finance",
+      "hiring",
+      "business-operations",
+      "administrative-assistance",
+      "bookkeeping",
+      "process-development",
+      "ea-services"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]

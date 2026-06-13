@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A searchable directory of organizations and offerings with meaningful social or environmental commitments — verified impact claims, not just branding." />
+    <title>Impact Directory</title>
+    <!-- Cloudflare Web Analytics — set VITE_CF_ANALYTICS_TOKEN in Netlify env vars to activate -->
+    <script>
+      (function() {
+        var token = '%VITE_CF_ANALYTICS_TOKEN%';
+        if (token && token !== '%VITE_CF_ANALYTICS_TOKEN%' && token.length > 10) {
+          var s = document.createElement('script');
+          s.defer = true;
+          s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+          s.setAttribute('data-cf-beacon', JSON.stringify({ token: token }));
+          document.head.appendChild(s);
+        }
+      })();
+    </script>
+    <!-- Hypothes.is annotation sidebar — lets visitors highlight and annotate any text -->
+    <script src="https://hypothes.is/embed.js" async></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

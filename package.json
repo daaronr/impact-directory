@@ -1,0 +1,34 @@
+{
+  "name": "impact-directory",
+  "version": "0.1.0",
+  "description": "Impact Products and Services Directory - a searchable catalog of organizations and offerings with meaningful social or environmental commitments",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "consolidate": "python scripts/consolidate.py",
+    "validate": "python scripts/validate_data.py"
+  },
+  "dependencies": {
+    "fuse.js": "^7.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.0"
+  },
+  "keywords": [
+    "impact",
+    "directory",
+    "profit-for-good",
+    "effective-altruism",
+    "social-enterprise"
+  ],
+  "license": "MIT"
+}

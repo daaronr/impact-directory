@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "off-albion-east-gwwc-pledge",
+    "slug": "albion-east-gwwc-pledge",
+    "name": "Albion East — GWWC Company Pledge",
+    "org_id": "org-albion-east",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-tomorrow-sleepwear-gwwc-pledge",
+    "slug": "tomorrow-sleepwear-gwwc-pledge",
+    "name": "Tomorrow Sleepwear LLC — GWWC Company Pledge",
+    "org_id": "org-tomorrow-sleepwear",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-give-industries-gwwc-pledge",
+    "slug": "give-industries-gwwc-pledge",
+    "name": "Give Industries Ltd — GWWC Company Pledge",
+    "org_id": "org-give-industries",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-gimbalninja-gwwc-pledge",
+    "slug": "gimbalninja-gwwc-pledge",
+    "name": "Gimbalninja e.U. — GWWC Company Pledge",
+    "org_id": "org-gimbalninja",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-carpenter-co-gwwc-pledge",
+    "slug": "carpenter-co-gwwc-pledge",
+    "name": "Carpenter & Co — GWWC Company Pledge",
+    "org_id": "org-carpenter-co",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-keika-gwwc-pledge",
+    "slug": "keika-gwwc-pledge",
+    "name": "Keika — GWWC Company Pledge",
+    "org_id": "org-keika",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ctrl-matters-gwwc-pledge",
+    "slug": "ctrl-matters-gwwc-pledge",
+    "name": "CTRL Matters — GWWC Company Pledge",
+    "org_id": "org-ctrl-matters",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ethos-wines-gwwc-pledge",
+    "slug": "ethos-wines-gwwc-pledge",
+    "name": "Ethos Wines — GWWC Company Pledge",
+    "org_id": "org-ethos-wines",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-gardening-with-a-smile-gwwc-pledge",
+    "slug": "gardening-with-a-smile-gwwc-pledge",
+    "name": "Gardening with a Smile — GWWC Company Pledge",
+    "org_id": "org-gardening-with-a-smile",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-cadent-gwwc-pledge",
+    "slug": "cadent-gwwc-pledge",
+    "name": "Cadent — GWWC Company Pledge",
+    "org_id": "org-cadent",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-erin-morning-gwwc-pledge",
+    "slug": "erin-morning-gwwc-pledge",
+    "name": "Erin Morning & Co. — GWWC Company Pledge",
+    "org_id": "org-erin-morning",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-codefortynine-gwwc-pledge",
+    "slug": "codefortynine-gwwc-pledge",
+    "name": "codefortynine — GWWC Company Pledge",
+    "org_id": "org-codefortynine",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-barcodes-gwwc-pledge",
+    "slug": "barcodes-gwwc-pledge",
+    "name": "Barcodes Limited — GWWC Company Pledge",
+    "org_id": "org-barcodes",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-rise-movement-gwwc-pledge",
+    "slug": "rise-movement-gwwc-pledge",
+    "name": "Rise Movement — GWWC Company Pledge",
+    "org_id": "org-rise-movement",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-walker-s-on-it-gwwc-pledge",
+    "slug": "walker-s-on-it-gwwc-pledge",
+    "name": "Walker's On It — GWWC Company Pledge",
+    "org_id": "org-walker-s-on-it",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-croxsons-gwwc-pledge",
+    "slug": "croxsons-gwwc-pledge",
+    "name": "Croxsons — GWWC Company Pledge",
+    "org_id": "org-croxsons",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-moonscape-mining-gwwc-pledge",
+    "slug": "moonscape-mining-gwwc-pledge",
+    "name": "Moonscape Mining Oy — GWWC Company Pledge",
+    "org_id": "org-moonscape-mining",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-domaine-labs-gwwc-pledge",
+    "slug": "domaine-labs-gwwc-pledge",
+    "name": "Domaine Labs Inc — GWWC Company Pledge",
+    "org_id": "org-domaine-labs",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-studio1-x-gwwc-pledge",
+    "slug": "studio1-x-gwwc-pledge",
+    "name": "Studio1-X Limited — GWWC Company Pledge",
+    "org_id": "org-studio1-x",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-data-driven-athlete-gwwc-pledge",
+    "slug": "data-driven-athlete-gwwc-pledge",
+    "name": "Data Driven Athlete LLC — GWWC Company Pledge",
+    "org_id": "org-data-driven-athlete",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-send7-gwwc-pledge",
+    "slug": "send7-gwwc-pledge",
+    "name": "SEND7 — GWWC Company Pledge",
+    "org_id": "org-send7",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-meepo-gwwc-pledge",
+    "slug": "meepo-gwwc-pledge",
+    "name": "Meepo AB — GWWC Company Pledge",
+    "org_id": "org-meepo",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-isolabs-gwwc-pledge",
+    "slug": "isolabs-gwwc-pledge",
+    "name": "ISOLABS Pty. Ltd. — GWWC Company Pledge",
+    "org_id": "org-isolabs",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-pagoda-gwwc-pledge",
+    "slug": "pagoda-gwwc-pledge",
+    "name": "PAGODA — GWWC Company Pledge",
+    "org_id": "org-pagoda",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ancient-sled-coffee-company-gwwc-pledge",
+    "slug": "ancient-sled-coffee-company-gwwc-pledge",
+    "name": "Ancient Sled Coffee Company Inc — GWWC Company Pledge",
+    "org_id": "org-ancient-sled-coffee-company",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-languagecourse-gwwc-pledge",
+    "slug": "languagecourse-gwwc-pledge",
+    "name": "LanguageCourse S.L. — GWWC Company Pledge",
+    "org_id": "org-languagecourse",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-fire-belgium-gwwc-pledge",
+    "slug": "fire-belgium-gwwc-pledge",
+    "name": "FIRE Belgium — GWWC Company Pledge",
+    "org_id": "org-fire-belgium",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-necessitating-change-gwwc-pledge",
+    "slug": "necessitating-change-gwwc-pledge",
+    "name": "Necessitating Change — GWWC Company Pledge",
+    "org_id": "org-necessitating-change",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-rat-betty-gwwc-pledge",
+    "slug": "rat-betty-gwwc-pledge",
+    "name": "Rat Betty Ltd — GWWC Company Pledge",
+    "org_id": "org-rat-betty",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-unlisted-artists-gwwc-pledge",
+    "slug": "unlisted-artists-gwwc-pledge",
+    "name": "Unlisted Artists Pty Ltd — GWWC Company Pledge",
+    "org_id": "org-unlisted-artists",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-data-mie-gwwc-pledge",
+    "slug": "data-mie-gwwc-pledge",
+    "name": "data&mie Oy — GWWC Company Pledge",
+    "org_id": "org-data-mie",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-lunaone-gwwc-pledge",
+    "slug": "lunaone-gwwc-pledge",
+    "name": "LunaONE GmbH — GWWC Company Pledge",
+    "org_id": "org-lunaone",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-waking-up-gwwc-pledge",
+    "slug": "waking-up-gwwc-pledge",
+    "name": "Waking Up, LLC — GWWC Company Pledge",
+    "org_id": "org-waking-up",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-foundation-fortified-gwwc-pledge",
+    "slug": "foundation-fortified-gwwc-pledge",
+    "name": "Foundation Fortified — GWWC Company Pledge",
+    "org_id": "org-foundation-fortified",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-catalyst-driven-technologies-gwwc-pledge",
+    "slug": "catalyst-driven-technologies-gwwc-pledge",
+    "name": "CATALYST DRIVEN TECHNOLOGIES LLC — GWWC Company Pledge",
+    "org_id": "org-catalyst-driven-technologies",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-bypsykologene-gwwc-pledge",
+    "slug": "bypsykologene-gwwc-pledge",
+    "name": "Bypsykologene AS — GWWC Company Pledge",
+    "org_id": "org-bypsykologene",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-langel-consulting-group-gwwc-pledge",
+    "slug": "langel-consulting-group-gwwc-pledge",
+    "name": "Langel Consulting Group — GWWC Company Pledge",
+    "org_id": "org-langel-consulting-group",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ips-consulting-gwwc-pledge",
+    "slug": "ips-consulting-gwwc-pledge",
+    "name": "IPS Consulting — GWWC Company Pledge",
+    "org_id": "org-ips-consulting",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-tiime-s-r-l-gwwc-pledge",
+    "slug": "tiime-s-r-l-gwwc-pledge",
+    "name": "TIIME S.à r.l. — GWWC Company Pledge",
+    "org_id": "org-tiime-s-r-l",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-net-negative-gardening-gwwc-pledge",
+    "slug": "net-negative-gardening-gwwc-pledge",
+    "name": "Net Negative Gardening — GWWC Company Pledge",
+    "org_id": "org-net-negative-gardening",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-easy-emdr-gwwc-pledge",
+    "slug": "easy-emdr-gwwc-pledge",
+    "name": "Easy EMDR Inc — GWWC Company Pledge",
+    "org_id": "org-easy-emdr",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-impact-books-gwwc-pledge",
+    "slug": "impact-books-gwwc-pledge",
+    "name": "Impact Books Ltd. — GWWC Company Pledge",
+    "org_id": "org-impact-books",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-third-win-group-gwwc-pledge",
+    "slug": "third-win-group-gwwc-pledge",
+    "name": "Third Win Group — GWWC Company Pledge",
+    "org_id": "org-third-win-group",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-openbit-gwwc-pledge",
+    "slug": "openbit-gwwc-pledge",
+    "name": "OpenBit GmbH — GWWC Company Pledge",
+    "org_id": "org-openbit",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-correct-software-gwwc-pledge",
+    "slug": "correct-software-gwwc-pledge",
+    "name": "Correct Software Ltd. — GWWC Company Pledge",
+    "org_id": "org-correct-software",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-make-tahoe-gwwc-pledge",
+    "slug": "make-tahoe-gwwc-pledge",
+    "name": "Make Tahoe — GWWC Company Pledge",
+    "org_id": "org-make-tahoe",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-curious-laboratories-gwwc-pledge",
+    "slug": "curious-laboratories-gwwc-pledge",
+    "name": "Curious Laboratories LTD — GWWC Company Pledge",
+    "org_id": "org-curious-laboratories",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-meshin-movement-gwwc-pledge",
+    "slug": "meshin-movement-gwwc-pledge",
+    "name": "Meshin Movement, LLC — GWWC Company Pledge",
+    "org_id": "org-meshin-movement",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-studio-internazionale-maulucci-gwwc-pledge",
+    "slug": "studio-internazionale-maulucci-gwwc-pledge",
+    "name": "Studio Internazionale Maulucci — GWWC Company Pledge",
+    "org_id": "org-studio-internazionale-maulucci",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-4thwall-gwwc-pledge",
+    "slug": "4thwall-gwwc-pledge",
+    "name": "4thWall — GWWC Company Pledge",
+    "org_id": "org-4thwall",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-bullet-journal-gwwc-pledge",
+    "slug": "bullet-journal-gwwc-pledge",
+    "name": "Bullet Journal — GWWC Company Pledge",
+    "org_id": "org-bullet-journal",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-eudaimonia-investments-gwwc-pledge",
+    "slug": "eudaimonia-investments-gwwc-pledge",
+    "name": "Eudaimonia Investments GmbH — GWWC Company Pledge",
+    "org_id": "org-eudaimonia-investments",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-sleek-habitat-gwwc-pledge",
+    "slug": "sleek-habitat-gwwc-pledge",
+    "name": "Sleek Habitat — GWWC Company Pledge",
+    "org_id": "org-sleek-habitat",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-fluffy-torpedo-fine-ice-cream-gwwc-pledge",
+    "slug": "fluffy-torpedo-fine-ice-cream-gwwc-pledge",
+    "name": "Fluffy Torpedo Fine Ice Cream — GWWC Company Pledge",
+    "org_id": "org-fluffy-torpedo-fine-ice-cream",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-ali-abdaal-gwwc-pledge",
+    "slug": "ali-abdaal-gwwc-pledge",
+    "name": "Ali Abdaal Ltd — GWWC Company Pledge",
+    "org_id": "org-ali-abdaal",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-indie-doc-trailer-gwwc-pledge",
+    "slug": "indie-doc-trailer-gwwc-pledge",
+    "name": "Indie Doc Trailer LLC — GWWC Company Pledge",
+    "org_id": "org-indie-doc-trailer",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-archer-connections-gwwc-pledge",
+    "slug": "archer-connections-gwwc-pledge",
+    "name": "Archer Connections — GWWC Company Pledge",
+    "org_id": "org-archer-connections",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-boas-gwwc-pledge",
+    "slug": "boas-gwwc-pledge",
+    "name": "BOAS — GWWC Company Pledge",
+    "org_id": "org-boas",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  },
+  {
+    "id": "off-lendsolid-gwwc-pledge",
+    "slug": "lendsolid-gwwc-pledge",
+    "name": "LendSolid LLC — GWWC Company Pledge",
+    "org_id": "org-lendsolid",
+    "offering_type": "company",
+    "exactness": "exact",
+    "category": "Charitable Employer",
+    "description": "Company committed to donating at least 10% of net profits to high-impact charities via the GWWC Company Pledge.",
+    "tags": [
+      "gwwc-pledge",
+      "10pct-profits",
+      "effective-giving"
+    ],
+    "added": "2026-04-11",
+    "updated": "2026-04-11"
+  }
+]
