@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Seo from '../components/Seo'
 import SearchBar from '../components/SearchBar'
 import Disclaimer from '../components/Disclaimer'
 import OrgCard from '../components/OrgCard'
@@ -12,6 +13,7 @@ export default function Home({ data }) {
 
   return (
     <div>
+      <Seo path="/" />
       <Disclaimer />
 
       {/* Hero */}

@@ -255,6 +255,7 @@ const FAQS = [
 export default function FAQ() {
   return (
     <div className="max-w-3xl">
+      <Seo title="FAQ" description="Frequently asked questions about the Impact Directory — what counts as an impact claim, how confidence and exactness work, and how to suggest corrections." path="/faq" />
       <div className="panel-card p-8 mt-6 mb-6 relative">
         <div className="section-label absolute -top-2.5 left-4 bg-[#F4F6F8] px-2">FAQ</div>
         <h1 className="text-3xl font-semibold mb-2">Frequently asked questions</h1>

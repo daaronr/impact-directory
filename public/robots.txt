@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://impact-products-directory.netlify.app/sitemap.xml

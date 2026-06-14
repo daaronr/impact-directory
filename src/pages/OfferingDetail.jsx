@@ -1,5 +1,6 @@
 import React from 'react'
 import { useParams, Link } from 'react-router-dom'
+import Seo from '../components/Seo'
 import ClaimBlock from '../components/ClaimBlock'
 import Disclaimer from '../components/Disclaimer'
 
@@ -41,6 +42,11 @@ export default function OfferingDetail({ data }) {
 
   return (
     <div>
+      <Seo
+        title={org ? `${offering.name} — ${org.name}` : offering.name}
+        description={`${offering.name}${org ? ` from ${org.name}` : ''}: impact commitment and verified claims.`}
+        path={`/offering/${offering.slug}`}
+      />
       <Disclaimer />
 
       <div className="mt-6 mb-2">

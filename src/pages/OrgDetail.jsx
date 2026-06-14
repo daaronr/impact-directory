@@ -1,5 +1,6 @@
 import React from 'react'
 import { useParams, Link } from 'react-router-dom'
+import Seo from '../components/Seo'
 import ClaimBlock from '../components/ClaimBlock'
 import OfferingCard from '../components/OfferingCard'
 import Disclaimer from '../components/Disclaimer'
@@ -33,6 +34,11 @@ export default function OrgDetail({ data }) {
 
   return (
     <div>
+      <Seo
+        title={org.name}
+        description={`${org.name}: ${(org.description || '').slice(0, 150)}`.trim()}
+        path={`/org/${org.slug}`}
+      />
       <Disclaimer />
 
       <div className="mt-6 mb-2">
