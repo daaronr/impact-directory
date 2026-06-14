@@ -1,7 +1,11 @@
+# Deploys are done from CI via `netlify deploy --dir=dist` (the GitHub Action
+# builds first). No build command here, so the Netlify CLI uploads the
+# prebuilt dist/ instead of trying to rebuild inside the deploy step.
 [build]
-  command = "npm run build"
   publish = "dist"
 
+# SPA fallback. Netlify serves real files in dist/ (robots.txt, sitemap.xml,
+# assets) before applying this, so they are NOT swallowed by the rewrite.
 [[redirects]]
   from = "/*"
   to = "/index.html"
