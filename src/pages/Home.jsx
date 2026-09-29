@@ -186,6 +186,11 @@ export default function Home({ data }) {
              className="underline hover:text-[#1D5FA6]">
             Unjournal.org
           </a>
+          {' '}&middot;{' '}
+          <a href="https://projects.davidreinstein.org/" target="_blank" rel="noopener noreferrer"
+             className="underline hover:text-[#1D5FA6]">
+            More projects by David Reinstein
+          </a>
         </p>
       </footer>
     </div>
