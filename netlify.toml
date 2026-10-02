@@ -2,6 +2,7 @@
 # builds first). No build command here, so the Netlify CLI uploads the
 # prebuilt dist/ instead of trying to rebuild inside the deploy step.
 [build]
+  edge_functions = "netlify/edge-functions"
   publish = "dist"
 
 # SPA fallback. Netlify serves real files in dist/ (robots.txt, sitemap.xml,
