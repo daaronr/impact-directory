@@ -61,7 +61,7 @@ export default function FilterPanel({ filters, onChange, onClear, sources }) {
   const set = (key, val) => onChange({ ...filters, [key]: val })
 
   return (
-    <div className="panel-card p-4 mb-6 relative">
+    <div data-engagement-filter className="panel-card p-4 mb-6 relative">
       <div className="section-label absolute -top-2.5 left-4 bg-[#F4F6F8] px-2">Advanced filters</div>
 
       {/* Row 1: Beneficiary scope + Source */}

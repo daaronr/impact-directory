@@ -71,7 +71,7 @@ export default function OrgDetail({ data }) {
           </div>
           {org.website && (
             <a
-              href={org.website}
+              data-engagement="website_open" href={org.website}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary text-xs whitespace-nowrap"
@@ -101,7 +101,7 @@ export default function OrgDetail({ data }) {
                 s.url ? (
                   <a
                     key={s.id}
-                    href={s.url}
+                    data-engagement="evidence_open" href={s.url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs font-mono text-[#1D5FA6] hover:underline"

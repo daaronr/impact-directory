@@ -12,7 +12,7 @@ const ORG_TYPE_LABELS = {
 export default function OrgCard({ org, offeringCount = 0, claimCount = 0 }) {
   return (
     <div className="result-card h-full flex flex-col">
-      <Link to={`/org/${org.slug}`} className="block p-4 flex-1 no-underline">
+      <Link data-engagement="organization_open" to={`/org/${org.slug}`} className="block p-4 flex-1 no-underline">
         <div className="flex items-start justify-between gap-2 mb-2">
           <h3 className="font-semibold text-[#1A2332] leading-snug">
             {org.name}
@@ -45,6 +45,7 @@ export default function OrgCard({ org, offeringCount = 0, claimCount = 0 }) {
 
       {org.website && (
         <a
+          data-engagement="website_open"
           href={org.website}
           target="_blank"
           rel="noopener noreferrer"

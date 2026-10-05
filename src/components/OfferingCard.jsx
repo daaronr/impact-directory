@@ -27,7 +27,7 @@ export default function OfferingCard({ offering, org, claims = [] }) {
 
   return (
     <div className={`${isService ? 'service-card' : 'result-card'} h-full flex flex-col`}>
-      <Link to={`/offering/${offering.slug}`} className="block p-4 flex-1 no-underline">
+      <Link data-engagement="offering_open" to={`/offering/${offering.slug}`} className="block p-4 flex-1 no-underline">
 
         {/* Service type indicator */}
         {isService && (
@@ -82,6 +82,7 @@ export default function OfferingCard({ offering, org, claims = [] }) {
 
       {org?.website && (
         <a
+          data-engagement="website_open"
           href={org.website}
           target="_blank"
           rel="noopener noreferrer"

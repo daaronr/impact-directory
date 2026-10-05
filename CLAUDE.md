@@ -103,3 +103,14 @@ of requests, inflating pageviews. Invalid catalogue slugs still need validation.
 Keep these files in normal Vite/CI releases. Shared engagement counters measure
 selected main routes and separate recognizable crawlers; they do not cover all
 catalogue detail pages or establish unique human use.
+
+The delegated `useInteractionTracking` hook records only trusted search, filter,
+detail-open and outgoing-link activations with fixed labels. The first action in
+a loaded tab records an engaged load atomically. It sends no search text, item
+IDs, cookies or referrer and honors DNT/GPC; it is not proof of unique human use.
+Retain the corresponding data attributes during UI changes. Live browser QA on
+5 October verified persistence and opt-out behavior in a separate validation
+namespace. The portable edge bundle includes Netlify Blobs 10.7.13, fixing older
+conditional JSON writes that could undercount simultaneous requests. Shared
+counter source and public reporting live in the parent workspace's site_engagement
+folder; regenerate this bundle there rather than editing generated code.

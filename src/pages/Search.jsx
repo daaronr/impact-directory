@@ -206,6 +206,7 @@ export default function Search({ data }) {
           <div className="flex items-center gap-2 flex-wrap">
             <span className="section-label">Commitment level</span>
             <select
+              data-engagement-filter
               value={filters.commitmentTier}
               onChange={e => updateFilters({ ...filters, commitmentTier: e.target.value })}
               className="border border-[#D0D9E4] px-2 py-1 text-sm font-mono bg-white"
@@ -246,6 +247,7 @@ export default function Search({ data }) {
         ].map(({ key, label }) => (
           <button
             key={key}
+            data-engagement="filter_change"
             onClick={() => setMode(key)}
             className={`font-mono text-xs uppercase tracking-wider px-3 py-1.5 border transition-all ${
               mode === key

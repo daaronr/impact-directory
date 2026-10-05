@@ -69,7 +69,7 @@ export default function ClaimBlock({ claim, sources = [] }) {
           <span>
             Source:{' '}
             {source.url ? (
-              <a href={source.url} target="_blank" rel="noopener noreferrer"
+              <a data-engagement="evidence_open" href={source.url} target="_blank" rel="noopener noreferrer"
                  className="underline hover:text-[#1D5FA6]">
                 {source.name}
               </a>

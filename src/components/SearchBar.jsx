@@ -15,7 +15,7 @@ export default function SearchBar({ initialValue = '', onSearch, placeholder = '
   }
 
   return (
-    <form onSubmit={handleSubmit} className="flex gap-0">
+    <form data-engagement-search onSubmit={handleSubmit} className="flex gap-0">
       <input
         type="text"
         value={value}

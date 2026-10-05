@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import { usePageTracking } from './hooks/usePageTracking'
+import { useInteractionTracking } from './hooks/useInteractionTracking'
 import Header from './components/Header'
 import Home from './pages/Home'
 import Search from './pages/Search'
@@ -13,6 +14,7 @@ import FAQ from './pages/FAQ'
 
 export default function App() {
   usePageTracking()
+  useInteractionTracking()
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -74,6 +76,9 @@ export default function App() {
           <Route path="/faq" element={<FAQ />} />
         </Routes>
       </main>
+      <footer className="max-w-7xl mx-auto px-4 pb-6 text-xs text-gray-500">
+        Interaction counters store aggregate totals, without search text, item IDs or cookies. Browser DNT/GPC signals opt out.
+      </footer>
     </div>
   )
 }

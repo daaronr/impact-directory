@@ -56,7 +56,7 @@ export default function OfferingDetail({ data }) {
         <span className="text-gray-300 mx-2">/</span>
         {org && (
           <>
-            <Link to={`/org/${org.slug}`} className="text-xs font-mono text-gray-400 hover:text-[#1D5FA6] uppercase tracking-wider">
+            <Link data-engagement="organization_open" to={`/org/${org.slug}`} className="text-xs font-mono text-gray-400 hover:text-[#1D5FA6] uppercase tracking-wider">
               {org.name}
             </Link>
             <span className="text-gray-300 mx-2">/</span>
@@ -85,7 +85,7 @@ export default function OfferingDetail({ data }) {
           </div>
           {org?.website && (
             <a
-              href={org.website}
+              data-engagement="website_open" href={org.website}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary text-xs whitespace-nowrap flex-shrink-0"
@@ -99,7 +99,7 @@ export default function OfferingDetail({ data }) {
 
         {org && (
           <p className="text-sm font-mono text-[#1D5FA6] mb-3">
-            <Link to={`/org/${org.slug}`} className="hover:underline">
+            <Link data-engagement="organization_open" to={`/org/${org.slug}`} className="hover:underline">
               {org.name}
             </Link>
           </p>
