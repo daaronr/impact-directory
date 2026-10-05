@@ -88,3 +88,18 @@ No database service (no Postgres, no Supabase) is needed for v1.
 Netlify static hosting. Required GitHub secrets:
 - `NETLIFY_AUTH_TOKEN` — personal access token
 - `NETLIFY_SITE_ID` — from Netlify dashboard
+
+## Web analytics and routing
+
+Netlify pageviews count successful HTML responses, including crawler traffic.
+The 5 October 2026 audit classified about 99% of the prior week’s HTTP requests
+as crawlers; this is not the monthly human share. The directory has about 6,000
+organisation/offering records, so catalogue crawls can create large totals.
+
+`netlify.toml` rewrites only the application’s fixed and catalogue route
+families. Other missing paths return 404, and `public/favicon.svg` is a real
+image; the former catch-all incorrectly served homepage HTML for both kinds
+of requests, inflating pageviews. Invalid catalogue slugs still need validation.
+Keep these files in normal Vite/CI releases. Shared engagement counters measure
+selected main routes and separate recognizable crawlers; they do not cover all
+catalogue detail pages or establish unique human use.
