@@ -12,15 +12,15 @@ import Feedback from './pages/Feedback'
 import Sources from './pages/Sources'
 import FAQ from './pages/FAQ'
 
-export default function App({ initialData = null }) {
+export default function App({ initialData = null, initialError = null }) {
   usePageTracking()
   useInteractionTracking()
   const [data, setData] = useState(initialData)
-  const [loading, setLoading] = useState(!initialData)
-  const [error, setError] = useState(null)
+  const [loading, setLoading] = useState(!initialData && !initialError)
+  const [error, setError] = useState(initialError)
 
   useEffect(() => {
-    if (initialData) return
+    if (initialData || initialError) return
     fetch('/data/all_data.json')
       .then(res => {
         if (!res.ok) throw new Error('Failed to load data')

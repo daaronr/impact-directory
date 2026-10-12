@@ -18,6 +18,8 @@ for (const path of new Set(paths)) {
   assert(sitemap.includes(`<loc>https://impact-products-directory.netlify.app${path}</loc>`), path)
   assert(!page.includes('with Verified Impact Claims'), path)
 }
+const home = readFileSync(join(root, 'dist/index.html'), 'utf8')
+assert(home.includes('action="/search/"') && home.includes('name="q"'), 'Initial HTML must provide a native search fallback')
 const humanitix = readFileSync(join(root, 'dist/org/humanitix/index.html'), 'utf8')
 assert(humanitix.includes('Humanitix'))
 assert(humanitix.includes('100% of profits from booking fees are donated to education charities.'))
