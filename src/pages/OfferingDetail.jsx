@@ -44,7 +44,7 @@ export default function OfferingDetail({ data }) {
     <div>
       <Seo
         title={org ? `${offering.name} — ${org.name}` : offering.name}
-        description={`${offering.name}${org ? ` from ${org.name}` : ''}: impact commitment and verified claims.`}
+        description={`${offering.name}${org ? ` from ${org.name}` : ''}: giving commitment, source evidence and claim scope.`}
         path={`/offering/${offering.slug}`}
       />
       <Disclaimer />

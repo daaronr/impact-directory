@@ -1,3 +1,4 @@
+import Seo from '../components/Seo'
 import React, { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 
@@ -165,6 +166,7 @@ export default function Sources({ data }) {
 
   return (
     <div className="max-w-4xl mx-auto">
+      <Seo title="Sources and coverage" description="Source directories, coverage and collection methods behind the Impact Directory." path="/sources" />
       <div className="panel-card p-6 mb-6 relative">
         <div className="section-label absolute -top-2.5 left-4 bg-[#F4F6F8] px-2">Data Coverage</div>
         <h1 className="text-xl font-semibold text-[#1A2332] mb-2 mt-1">What we've indexed, and what's next</h1>

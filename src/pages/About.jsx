@@ -6,7 +6,7 @@ import Disclaimer from '../components/Disclaimer'
 export default function About() {
   return (
     <div className="max-w-3xl">
-      <Seo title="About" description="How the Impact Directory works: exactness levels, confidence scores, and how impact claims are sourced and verified." path="/about" />
+      <Seo title="About" description="How the Impact Directory works: exactness levels, confidence scores, and how impact claims are sourced and assessed." path="/about" />
       <Disclaimer />
 
       <div className="panel-card p-8 mt-6 mb-6 relative">

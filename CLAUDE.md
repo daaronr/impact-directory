@@ -114,3 +114,24 @@ namespace. The portable edge bundle includes Netlify Blobs 10.7.13, fixing older
 conditional JSON writes that could undercount simultaneous requests. Shared
 counter source and public reporting live in the parent workspace's site_engagement
 folder; regenerate this bundle there rather than editing generated code.
+
+## Search previews and promotion
+
+`npm run build` now renders the existing React pages into static HTML after the
+client build. Catalogue pages carry their real content and per-page metadata
+before JavaScript runs; React remains the interactive frontend. `npm run check:seo`
+checks every distinct indexable URL, canonical and sitemap entry. No paid
+prerender service is required. Generated HTML is confined to ignored `dist/`;
+the temporary server bundle is ignored under `.prerender/`.
+
+Only known catalogue slugs get generated files. Do not restore the org/offering
+catch-all rewrites: invented slugs must return 404. Duplicate imported slugs use
+the same first-record behavior as React and appear once in the sitemap.
+Feedback is excluded from the sitemap and has an initial noindex tag.
+
+Use sourced giving/impact claims in promotional copy, rather than implying every
+record has independently verified impact. Promotion drafts and a wider public
+site audit are in the parent workspace's `site_engagement/PROMOTION.md` and
+`site_engagement/SEO_REPORT.md`, prepared by Codex in the public-site engagement
+chat. Tracking source remains in `site_engagement`; retain the deployed edge
+bundle, privacy opt-outs and fixed action labels in normal releases.

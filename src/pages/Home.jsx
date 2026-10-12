@@ -25,14 +25,14 @@ export default function Home({ data }) {
         <h1 className="text-3xl md:text-5xl font-semibold leading-tight mb-4">
           Find products and services{' '}
           <span className="hero-highlight">
-            that do good
+            with giving commitments
           </span>
         </h1>
 
         <p className="text-lg leading-relaxed max-w-2xl mb-6 text-gray-700">
           A searchable directory of organizations and offerings with meaningful social
-          or environmental commitments — with verified impact claims, not just branding.
-          We track the exact wording, confidence level, and source for every claim.
+          or environmental commitments — with sourced giving and impact claims.
+          Compare the wording, scope, confidence level and source before choosing. A listing is not an endorsement or proof of impact.
         </p>
 
         <div className="mb-8">

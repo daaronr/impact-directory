@@ -6,11 +6,12 @@
   "scripts": {
     "dev": "vite",
     "prebuild": "node scripts/generate_sitemap.mjs",
-    "build": "vite build",
+    "build": "vite build && vite build --ssr scripts/prerender-entry.jsx --outDir .prerender && node scripts/prerender.mjs",
     "preview": "vite preview",
     "sitemap": "node scripts/generate_sitemap.mjs",
     "consolidate": "python scripts/consolidate.py",
-    "validate": "python scripts/validate_data.py"
+    "validate": "python scripts/validate_data.py",
+    "check:seo": "node scripts/check_seo.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.0.0",

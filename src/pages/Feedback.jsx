@@ -1,3 +1,4 @@
+import Seo from '../components/Seo'
 import React, { useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 
@@ -43,6 +44,7 @@ export default function Feedback() {
 
   return (
     <div className="max-w-2xl mx-auto">
+      <Seo title="Report an inaccuracy" description="Suggest a sourced correction to an Impact Directory entry." path="/feedback" />
       <div className="panel-card p-8 relative">
         <div className="section-label absolute -top-2.5 left-4 bg-[#F4F6F8] px-2">Accuracy report</div>
         <h1 className="text-2xl font-semibold mb-2">

@@ -1075,6 +1075,42 @@ var tracking_registry_default = {
         "/faq": {
           label: "faq",
           type: "html"
+        },
+        "/index.html": {
+          label: "home",
+          type: "html"
+        },
+        "/search/": {
+          label: "search",
+          type: "html"
+        },
+        "/search/index.html": {
+          label: "search",
+          type: "html"
+        },
+        "/about/": {
+          label: "about",
+          type: "html"
+        },
+        "/about/index.html": {
+          label: "about",
+          type: "html"
+        },
+        "/sources/": {
+          label: "sources",
+          type: "html"
+        },
+        "/sources/index.html": {
+          label: "sources",
+          type: "html"
+        },
+        "/faq/": {
+          label: "faq",
+          type: "html"
+        },
+        "/faq/index.html": {
+          label: "faq",
+          type: "html"
         }
       },
       group: "Reinstein",
@@ -1105,7 +1141,10 @@ var tracking_registry_default = {
         engaged: "2026-10-05",
         click: "2026-10-05"
       },
-      reliable_since: "2026-10-05"
+      reliable_since: "2026-10-05",
+      incomplete_days: [
+        "2026-10-12"
+      ]
     },
     {
       key: "animal_futures_questions",
@@ -1200,12 +1239,132 @@ var tracking_registry_default = {
         }
       },
       reliable_since: "2026-10-05"
+    },
+    {
+      key: "pq_workshops",
+      name: "Pivotal Questions landing",
+      group: "Unjournal",
+      site_id: "9abc4eb7-bc5c-4bfd-83c2-2fbcf1b8cfe9",
+      url: "https://uj-pq-workshops.netlify.app",
+      started_at: "2026-10-06",
+      reliable_since: "2026-10-06",
+      routes: {
+        "/": {
+          label: "workshops",
+          type: "html"
+        },
+        "/index.html": {
+          label: "workshops",
+          type: "html"
+        }
+      }
+    },
+    {
+      key: "prioritization_dashboard",
+      name: "Research prioritization",
+      site_id: "ebbc0781-fbb1-4db7-97d1-36af81492160",
+      url: "https://uj-prioritization-dashboard.netlify.app",
+      group: "Unjournal",
+      started_at: "2026-10-09",
+      routes: {
+        "/": {
+          label: "home",
+          type: "html"
+        },
+        "/index.html": {
+          label: "home",
+          type: "html"
+        },
+        "/impact/": {
+          label: "impact",
+          type: "html"
+        },
+        "/impact/index.html": {
+          label: "impact",
+          type: "html"
+        },
+        "/legal/": {
+          label: "legal",
+          type: "html"
+        },
+        "/legal/index.html": {
+          label: "legal",
+          type: "html"
+        },
+        "/ratings/": {
+          label: "ratings",
+          type: "html"
+        },
+        "/ratings/index.html": {
+          label: "ratings",
+          type: "html"
+        },
+        "/cruxes/": {
+          label: "cruxes",
+          type: "html"
+        },
+        "/cruxes/index.html": {
+          label: "cruxes",
+          type: "html"
+        },
+        "/guide/": {
+          label: "guide",
+          type: "html"
+        },
+        "/guide/index.html": {
+          label: "guide",
+          type: "html"
+        },
+        "/sponsor/": {
+          label: "sponsor",
+          type: "html"
+        },
+        "/sponsor/index.html": {
+          label: "sponsor",
+          type: "html"
+        },
+        "/methodology/": {
+          label: "methodology",
+          type: "html"
+        },
+        "/methodology/index.html": {
+          label: "methodology",
+          type: "html"
+        }
+      },
+      events: [
+        "research_suggestion_received",
+        "author_submission_received",
+        "public_quick_rating_received"
+      ],
+      reliable_since: "2026-10-09",
+      incomplete_days: [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      metrics_started_at: {
+        "page:impact": "2026-10-09",
+        "page:legal": "2026-10-09",
+        use: "2026-10-11",
+        click: "2026-10-11",
+        "page:ratings": "2026-10-11",
+        "page:cruxes": "2026-10-11",
+        "page:guide": "2026-10-11",
+        "page:sponsor": "2026-10-11",
+        "page:methodology": "2026-10-11"
+      },
+      interaction_events: [
+        "research_suggestion_received",
+        "author_submission_received",
+        "public_quick_rating_received"
+      ]
     }
   ]
 };
 
 // site_engagement/edge-functions/engagement.ts
-var DASHBOARD = "https://reinstein-site-engagement.netlify.app";
+var DASHBOARDS = { Unjournal: "https://unjournal-site-engagement.netlify.app", Reinstein: "https://reinstein-site-engagement.netlify.app" };
 var BOT = /bot|crawler|spider|slurp|headless|facebookexternalhit|preview|curl|wget/i;
 var AUDIT = /DavidSiteEngagementAudit|Python-urllib|EngagementAudit/i;
 var sources = /* @__PURE__ */ new Set(["direct", "projects_hub", "search", "social", "hypothesis", "other"]);
@@ -1257,8 +1416,8 @@ async function increment(store, key, field) {
   }
   throw new Error("Counter contention limit");
 }
-function headers() {
-  return { "Content-Type": "application/json", "Access-Control-Allow-Origin": DASHBOARD, "Cache-Control": "public, max-age=30", "X-Content-Type-Options": "nosniff" };
+function headers(config2) {
+  return { "Content-Type": "application/json", "Access-Control-Allow-Origin": config2.group === "Unjournal" ? DASHBOARDS.Unjournal : DASHBOARDS.Reinstein, "Cache-Control": "public, max-age=30", "X-Content-Type-Options": "nosniff" };
 }
 var engagement_default = async (request, context) => {
   const config2 = tracking_registry_default.sites.find((s) => s.site_id === context.site.id);
@@ -1295,9 +1454,9 @@ var engagement_default = async (request, context) => {
         const record = await store.get(key, { type: "json", consistency: "strong" });
         return record ? { day: key.slice(prefix.length), counts: record.counts } : null;
       }))).filter(Boolean);
-      return new Response(JSON.stringify({ site: config2.key, started_at: config2.started_at, unit: "requests, not unique visitors", validation, days }), { headers: { ...headers(), ...validation ? { "Cache-Control": "no-store" } : {} } });
+      return new Response(JSON.stringify({ site: config2.key, started_at: config2.started_at, unit: "requests, not unique visitors", validation, days }), { headers: { ...headers(config2), ...validation ? { "Cache-Control": "no-store" } : {} } });
     } catch {
-      return new Response(JSON.stringify({ site: config2.key, error: "Aggregate counts temporarily unavailable" }), { status: 503, headers: headers() });
+      return new Response(JSON.stringify({ site: config2.key, error: "Aggregate counts temporarily unavailable" }), { status: 503, headers: headers(config2) });
     }
   }
   if (request.method !== "GET" || context.deploy.context !== "production") return;

@@ -4,9 +4,8 @@ const SITE = 'https://impact-products-directory.netlify.app'
 const SITE_NAME = 'Impact Directory'
 
 /**
- * Per-route SEO tags. Renders <title>, description, canonical, and Open Graph /
- * Twitter meta. Effective for Google's JS rendering immediately; for non-JS
- * social crawlers it requires Netlify prerendering to be enabled (see README).
+ * Per-route metadata used by both React and the build-time HTML renderer.
+ * Canonicals match the generated directory URLs, including trailing slashes.
  *
  * Props:
  *   title       — page title (site name is appended automatically)
@@ -14,9 +13,10 @@ const SITE_NAME = 'Impact Directory'
  *   path        — route path for canonical/og:url, e.g. "/org/humanitix"
  */
 export default function Seo({ title, description, path = '' }) {
-  const fullTitle = title ? `${title} — ${SITE_NAME}` : `${SITE_NAME} — Organizations & Products with Verified Impact Claims`
-  const url = `${SITE}${path}`
-  const desc = description || 'A searchable directory of organizations and offerings with meaningful social or environmental commitments — verified impact claims, not just branding.'
+  const fullTitle = title ? `${title} — ${SITE_NAME}` : `${SITE_NAME} — Products and Services with Charitable Giving Commitments`
+  const canonicalPath = path && path !== '/' ? `${path.replace(/\/$/, '')}/` : '/'
+  const url = `${SITE}${canonicalPath}`
+  const desc = description || 'Find businesses, products and services with charitable giving commitments. Compare sourced claims, their scope and confidence before choosing.'
 
   return (
     <Helmet>

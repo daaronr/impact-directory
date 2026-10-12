@@ -1,3 +1,4 @@
+import Seo from '../components/Seo'
 import React, { useState, useMemo, useEffect } from 'react'
 import { useSearchParams, Link } from 'react-router-dom'
 import SearchBar from '../components/SearchBar'
@@ -199,6 +200,8 @@ export default function Search({ data }) {
 
   return (
     <div>
+      <Seo title="Search products, services and organizations" description="Find businesses and offerings with charitable giving commitments. Filter by category, cause, confidence and claim scope." path="/search" />
+      <h1 className="text-2xl font-semibold mb-4">Search products, services and organizations</h1>
       <div className="panel-card p-6 mb-4 relative">
         <div className="section-label absolute -top-2.5 left-4 bg-[#F4F6F8] px-2">Search</div>
         <SearchBar initialValue={q} onSearch={handleSearch} />
