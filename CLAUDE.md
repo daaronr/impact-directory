@@ -135,3 +135,10 @@ site audit are in the parent workspace's `site_engagement/PROMOTION.md` and
 `site_engagement/SEO_REPORT.md`, prepared by Codex in the public-site engagement
 chat. Tracking source remains in `site_engagement`; retain the deployed edge
 bundle, privacy opt-outs and fixed action labels in normal releases.
+
+Both GitHub workflows use Node 22 and pinned Netlify CLI 24.0.1 with the explicit
+Impact Directory site ID. The prior Docker action swallowed a tracking-bundle
+error and reported a false success. `scripts/verify_deployment.mjs` checks the
+CLI deployment ID against Netlify's ready, published production ID and reads
+back the actual homepage, a catalogue page and a missing-slug 404. Never infer
+publication from a successful build or action alone.
