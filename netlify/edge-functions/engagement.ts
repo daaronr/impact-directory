@@ -1111,6 +1111,90 @@ var tracking_registry_default = {
         "/faq/index.html": {
           label: "faq",
           type: "html"
+        },
+        "/org/humanitix": {
+          label: "organization_detail",
+          type: "html"
+        },
+        "/org/humanitix/": {
+          label: "organization_detail",
+          type: "html"
+        },
+        "/org/humanitix/index.html": {
+          label: "organization_detail",
+          type: "html"
+        },
+        "/org/good-store": {
+          label: "organization_detail",
+          type: "html"
+        },
+        "/org/good-store/": {
+          label: "organization_detail",
+          type: "html"
+        },
+        "/org/good-store/index.html": {
+          label: "organization_detail",
+          type: "html"
+        },
+        "/offering/humanitix-event-ticketing": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/humanitix-event-ticketing/": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/humanitix-event-ticketing/index.html": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/awesome-socks-club-subscription": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/awesome-socks-club-subscription/": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/awesome-socks-club-subscription/index.html": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/awesome-coffee-club-subscription": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/awesome-coffee-club-subscription/": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/awesome-coffee-club-subscription/index.html": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/who-gives-a-crap-toilet-paper": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/who-gives-a-crap-toilet-paper/": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/who-gives-a-crap-toilet-paper/index.html": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/newmans-own-foods": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/newmans-own-foods/": {
+          label: "offering_detail",
+          type: "html"
+        },
+        "/offering/newmans-own-foods/index.html": {
+          label: "offering_detail",
+          type: "html"
         }
       },
       group: "Reinstein",
@@ -1139,11 +1223,14 @@ var tracking_registry_default = {
       metrics_started_at: {
         use: "2026-10-05",
         engaged: "2026-10-05",
-        click: "2026-10-05"
+        click: "2026-10-05",
+        "page:organization_detail": "2026-10-13",
+        "page:offering_detail": "2026-10-13"
       },
       reliable_since: "2026-10-05",
       incomplete_days: [
-        "2026-10-12"
+        "2026-10-12",
+        "2026-10-13"
       ]
     },
     {
